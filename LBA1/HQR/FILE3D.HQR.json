@@ -1,0 +1,415 @@
+{
+  "description": "Thisfile contains 3D characters model and animation information for LBA 1",
+  "entries": [
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen (normal mode)"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen (athletic mode)"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen (aggressive mode)"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen (discreet mode)"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen (with Proto-Pack)"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Nurse with notepad"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Nurse with club"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Supergro"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Nurse clothing"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Meca Penguin"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Garbage truck"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Grobo"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Soldier"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rabbibunny"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Surveillance"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Business quetch"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Groboclone"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Turret"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Robot"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Tank"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Female rabbibunny"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Zo�"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Catamaran"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Ferryboat"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Grobo sailor"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rabbibunny sailor"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Boat"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Skeleton"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Spikes"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Spikes cylinder"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Electro-plant"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rebels boat"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Soldier with machine gun"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Radar working"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Sphero rebel"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Sphero"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with coputer"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Car"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Praying mantis"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Sphero clone"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "ID"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Gawley's Horn"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Sendell's Medallion"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rabbiubnny fisher"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Motorcycle"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Horse"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rabbibunny (wise man)"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Elf"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Bird"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Eye creature"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Rock"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Book of B�"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Pirate flag"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Snake"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Proto-Pack"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Big machine gun"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Giant crab"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Hydroglider"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Groovy rabbibunny"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Groovy grobo"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Goo creature"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Dino-Fly"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Guitarist rabbibunny"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Sphero with drums"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen clone"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Huge orange creature"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "FunFrock"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Flying grobo"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Fake shark"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Snowboard"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Flag"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Computer"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Construction truck"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Construction worker 1"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Construction worker 2"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Construction worker 3"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Tractor"
+    },
+    {
+      "type": "entity",
+      "game": "LBA1",
+      "description": "Groovy sphero"
+    }
+  ]
+}

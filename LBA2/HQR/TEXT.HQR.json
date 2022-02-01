@@ -1,0 +1,147 @@
+{
+  "description": "This file contains character dialog texts and their indexes.",
+  "entries": [
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Options and menus index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Options and menus dialogs"
+    },
+    null,
+    null,
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Inventory and Holomap index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Inventory and Holomap dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 0"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 0"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 1"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 1"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 2"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 2"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 3"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 3"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 4"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 4"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 5"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 5"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 6"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 6"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 7"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 7"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 8"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 8"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 9"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 9"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 10"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 10"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "English: Index 11"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "English: Dialogs 11"
+    }
+  ]
+}

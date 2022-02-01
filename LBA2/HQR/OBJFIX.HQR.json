@@ -1,0 +1,506 @@
+{
+  "description": "This file contains 3D models of static objects (not Actors), like inventory items and other objects.",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   0"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   1"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   2"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   3"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   4"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   5"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   6"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   7"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   8"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object   9"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  10"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  11"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  12"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  13"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  14"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  15"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  16"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  17"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  18"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  19"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  20"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  21"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  22"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  23"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  24"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  25"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  26"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  27"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  28"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  29"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  30"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  31"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  32"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  33"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  34"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  35"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  36"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  37"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  38"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  39"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  40"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  41"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  42"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  43"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  44"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  45"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  46"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  47"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  48"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  49"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  50"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  51"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  52"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  53"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  60"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  61"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  62"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  63"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  64"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  65"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  66"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  67"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  68"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  69"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  70"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  71"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  72"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  73"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  74"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  75"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  76"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  77"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  78"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  79"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  80"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  81"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  82"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  83"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  84"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  85"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  86"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  87"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  88"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  89"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  90"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  91"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  92"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  93"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  94"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  95"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  96"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  97"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  98"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object  99"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object 100"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object 101"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object 102"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object 103"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Static object 104"
+    }
+  ]
+}

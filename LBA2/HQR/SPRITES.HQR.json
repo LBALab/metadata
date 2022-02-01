@@ -1,0 +1,2130 @@
+{
+  "description": "This file contains sprites",
+  "entries": [
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window top-left corner"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window bottom-left corner"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window bottom-right corner"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window top-right corner"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window top-left corner (filled)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window bottom-left corner (filled)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window bottom-right corner (filled)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window top-right corner (filled)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Twinsen running"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell 'S' symbol (used in Save Game)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window rounded rectange (filled)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "LBA 2 logo #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "LBA 2 logo #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cross"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window top-right Baldino picture"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Text window top-right Zoe picture"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Twinsen's Odyssey logo #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Twinsen's Odyssey logo #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "1x1 sprite (unused)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Portait of Sendell (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Uncoevered text (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan door (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red door (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Crate-moving apparatus"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-gray elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan crate"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light-brown fragile crate"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed lever (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed lever (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Empty Proto-Pack crate"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light-cyan door, left part (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light-cyan door, right part (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Back arrow (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Forward arrow (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Back arrow (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Forward arrow (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wooden door with glass (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Portrait of yellow groboclone (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed tunic-releasing lever (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed tunic-releasing lever (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan gate (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan gate (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of weather-wizard's kettle"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed floor lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed floor lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Rubbish bin top with umbrella inside"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Electricity switch off (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Electricity switch on (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-brown door, left part (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-brown door, right part (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-brown door, right part (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-brown door, left part (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed top of chest (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open top of chest (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Spiked door (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Spiked door (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Golden flat top (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Hacienda elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Black transparent ellipse"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a light"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a desk (covered text) (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a desk (uncovered text) (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Chain (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, with documentation (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, closed (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, w/ controls, w/o token (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, w/ controls, w/ token (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, animated token, part #1 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, animated token, part #2 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, animated token, part #3 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, with unpushed controls (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a white desk, with pushed controls (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Yellow magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open proto-pack crate"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door with round window (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Elevator in Esmers' base"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan door (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pyramid-shaped key"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Top of a barrel"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Magic slate back arrow, unpushed"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Magic slate forward arrow, unpushed"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Magic slate back arrow, pushed"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Magic slate forward arrow, pushed"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Piece of gray wall (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Gray-cyan gate (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Talking bubble (speaker at left)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Talking bubble (speaker at right)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Floppy disk icon"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Twinsen's face icon"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light-gray screw-holders"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-gray screw-holders"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Three mushrooms #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Two mushrooms"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Three mushrooms #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "One mushroom"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers 'S' symbol, w/o water"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Zeelichian (Otringal) elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan door with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan gate with keyhole (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Orange door with round window (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Orange door with round window (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan gate with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall for #185"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal bar stripes (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal bar stripes (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers 'S' symbol, animated water, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers 'S' symbol, animated water, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers 'S' symbol, animated water, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers 'S' symbol, animated water, part #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Lever (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Lever bottom???? (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Lever bottom???? (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Ventilation holes (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Tourist information terminal top, animation part #1 (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Tourist information terminal top, animation part #2 (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Token terminal, w/o token (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Token terminal, token animation, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Token terminal, token animation, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Token terminal, token animation, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed switch (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed switch (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed switch (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed switch (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Shuttle space-suit-blocking door (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Emerald moon-type door (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Animated, door-controlling, metal wheel, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Animated, door-controlling, metal wheel, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Animated, door-controlling, metal wheel, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Colored lever, OFF (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Colored level, turning ON, part #1 (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Colored level, turning ON, part #2 (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small door-controlling lever, unpushed (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small door-controlling lever, pushed (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small door-controlling lever, unpushed (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small door-controlling lever, pushed (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Empty sprite"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal cylinder with red indicator OFF"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal cylinder with red indicator ON"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal cylinder with lever, turned down (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal cylinder with lever, turned left (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal cylinder with light OFF (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal cylinder with light ON (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Emerald moon radio, animation part #1 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Emerald moon radio, animation part #2 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Emerald moon radio, broken (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Museum door-controlling lever, unpushed (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Museum door-controlling lever, pushed (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Proto-Pack crate with the Proto-Pack"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Otringal upper-city door with keyhole (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Otringal upper-city door with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Gray-yellow door (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Emerald moon-type door with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Notes (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown-black elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown-black gate with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #1, left, part #1 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #1, left, part #2 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #1, left, part #3 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown-black door with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #1, right, part #1 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #1, right, part #2 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #1, right, part #3 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Many Twinsunian stones (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Many Twinsunian stones (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark Monk statue in deposti (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Covered dark-cyan crate"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Uncovered dark-cyan crate"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some white stones"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #2, left, part #1 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #2, left, part #2 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some turning circle animation #2, left, part #3 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Orange wall piece with left arrow (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Orange wall piece with right arrow (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed lever (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall light, turned ON (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Bamboo door with keyhole (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Bamboo bridge (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Broken bamboo bridge (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Green apple"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark, metal, floor tile"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown door with keyhole (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown door with sign (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown door w/o sign (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown door with window (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Brown door with window (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall metal tile (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall metal tile (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Golden holder #1 (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Golden holder #2 (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Golden chain (SW)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Rope with golden holders (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed lever on dark surface"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed lever on dark surface"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small metal floor tile"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Ornament, made of Zlitos (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door, made of Zlitos, with keyhole (SE)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Tall movable pillar"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Medium movable pillar"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Double-wheel animation, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Double-wheel animation, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Double-wheel animation, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine lever in initial position"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Turned slot machine lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine light #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine light #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine piece #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine piece #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine piece #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine piece #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Slot machine line animation #1, part #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-E) animation, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-E) animation, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-E) animation, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-W) animation #1, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-W) animation #1, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-W) animation #1, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-W) animation #2, part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-W) animation #2, part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Francos' factory lever (S-W) animation #2, part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Big elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red box with key (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open red box (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red box with key (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open red box (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light metal gate (S-E), part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light metal gate (S-E), part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan metal door (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan metal door (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Temple of Bu wooden door (S-W), part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Temple of Bu wooden door (S-W), part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Temple of Bu wooden door (S-E), part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Temple of Bu wooden door (S-E), part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed orange container top"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open orange container top"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Bookshelf, built into a wall"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark metal door (S-E), with keyhole"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Golden chain with lock"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Laser-sensor wall (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Laser-sensor wall (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red floor tile"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan metal door (S-E), with keyole"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan metal door (S-W), with keyhole"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Mosquibee's bridge element (S-W bridge)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Undergas wooden floor tile"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dog \"mud\""
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed emperor's palace chest (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open emperor's palace chest (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed emperor's palace chest (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open emperor's palace chest (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed emperor's palace chest (N-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open emperor's palace chest (N-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed emperor's palace chest (N-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open emperor's palace chest (N-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed big emperor's palace chest (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Open big emperor's palace chest (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed red lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed red lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Gray-yellow metal X-door (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Imperial dark gray door (S-W), with keyhole"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Dark-cyan door, with window (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Imperial elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Reactor-control lever in initial position (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Turned reactor-control lever (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Yellow lever, on dark holder, up (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Yellow lever, on dark holder, down (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Undergas elevator activation lever, up (N-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Undergas elevator activation lever, down (N-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Esmers' base elevator"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell base elevator #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell base elevator #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cage"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell base lever, down (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell base lever, up (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell base lever, down (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell base lever, up (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar #1, left"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar #1, right"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar #2, left"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar #2, right"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar #3, left"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar #3, right"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #6"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #7"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, left, animation part #8"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #6"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #7"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Protective spell protection bar, right, animation part #8"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Closed big emperor's palace chest, with keyhole (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "In-statue metal gate with keyhole"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wizards'-freeing lever (S-W), up"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wizards'-freeing lever (S-W), down"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed red X-lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed red X-lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wizards' imprisonating helmet, lights on"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wizards' imprisonating helmet, lights off"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "In-statue elevator #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "In-statue elevator #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Indication wall light (S-W), off"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Indication wall light (S-W), on"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Unpushed wall lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Pushed wall lever"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Elevatro with green stripes"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Children's cage wall (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Children's cage wall (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Children's cage top"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some round, small metal thing"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "News table, with Dark Monk's staute picture, and article"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "News table, with Twinsen's photo"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sewers/School Of Magic door (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Emerald moon door (S-E)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Light wooden door (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan metal door (S-E), with keyhole, yellow-black stripes bottom"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cyan metal door (S-W), with keyhole, yellow-black stripes bottom"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red lever, on dark holder, up (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red lever, on dark holder, down (S-W)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Big snow flake"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Medium snow flake"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Small snow flake"
+    }
+  ]
+}

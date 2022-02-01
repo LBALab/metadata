@@ -1,0 +1,290 @@
+{
+  "description": "This file contains 3D geometry information for the Citadel Island under the storm, it has the same layout as ",
+  "entries": [
+    {
+      "type": "island_layout",
+      "game": "LBA2",
+      "description": "Island layout info"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Ground textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Objects textures"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Island section info"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Island objects info"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Island polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Island texture uvs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Island heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Island intensities"
+    }
+  ]
+}

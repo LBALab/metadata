@@ -1,0 +1,10 @@
+{
+  "description": "This file contains only one entry, that contains information for LBA credits sequence (3D models and animations).",
+  "entries": [
+    {
+      "type": "credits",
+      "game": "LBA2",
+      "description": "Credits data"
+    }
+  ]
+}

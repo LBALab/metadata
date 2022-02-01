@@ -1,0 +1,215 @@
+{
+  "description": "This file contains Holomap data (models, images, arrows and other).",
+  "entries": [
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Holomap texture information"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Surface info for Twinsun holomap overlay"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Twinsun holomap overlay (the 3D globe overlay)"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Surface info for Emerald Moon overlay"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Emerald moon holomap overlay"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Surface info for Zeelich overlay"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Zeelich holomap overlay"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Surface info for Zeelich undergas overlay"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Zeelich - undergas overlay"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Unknown"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Holomap arrow model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Holomap short arrow model"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Holomap arrow information"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Holomap car model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Holomap Dino-Fly model"
+    },
+    null,
+    null,
+    null,
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Citadel Island by night"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Citadel Island by night"
+    },
+    null,
+    null,
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Desert Island"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Desert Island"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Emerald moon"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Emerald moon"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Otringal"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Otringal"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Celebration Island"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Celebration Island"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Island of the Wannies"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Wannies Island"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Island of the Mosquibees"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Mosquibees Island"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Island of the Francos"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Francos Island"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Isle CX"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Isle CX"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Elevator to the undergass"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for undergas elevator"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Under celebration"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Under celebration"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Citadel Island (daytime)"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Citadel Island (daytime)"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Celebration Island with statue"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Arrow info for Celebration Island with statue"
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "description": "This file contains 3D models of LBA 1 characters",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic and Sendell's medallion"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Prison uniform"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Nurse uniform"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic, Sendell's medallion and saber"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic, Sendell's medallion and Gawley's horn"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic, Sendell's medallion and snowboard"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic, Sendell's medallion and protopack"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Twinsen: Tunic and protopack"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Nurse: With clipboard"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Nurse: With clipboard and pistol"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Nurse: Baton in holder"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Nurse: Baton in hand"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Groboclone: Super"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Nurse Clothing (very odd)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Meca-penguin"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Garbage truck"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Grobo: Green vest"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Soldier: Normal"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Soldier: Desert"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Soldier: Himalayan"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, yellow shirt and blue shorts"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Brown male, blue shirt and grey-blue shorts"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, yellow shirt and blue shorts, with bottle"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, green shirt and brown shorts in tatters"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Light brown male, yellow shirt and blue shorts in tatters"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, white clothes (the painter)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, white clothes with brush (the painter)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Weird motion-seeking tank (green & yellow)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Surveillance device"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Quetch: Salesman"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Groboclone: Yellow"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Groboclone: Green"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Groboclone: Yellow without mask"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Groboclone: Red without ears"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Grobo: Yellow clothes and hard hat (bulldozer operator)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbiclone: Yellow"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Yellow triangle"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Turret from automatic-spray gun thing"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Robot with 2 legs"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Robot with 2 legs, sphero in cockpit"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Tank: Normal"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Tank: Himalayan"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Tank: Desert"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Light brown female, orange dress"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Light brown female, green dress"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Brown female, yellow dress"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Brown female, orange dress in tatters"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Zo�"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Catamaran"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Catamaran with pirate flag"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Ferryboat"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Grobo: Pirate"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, blue shirt and white shorts (ferryboat captain)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Fishing boat"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Skeleton"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Oscillating-blade thing"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Small spiked log"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Big spiked log"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Electro-plant thing"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Army boat (driver only)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Army boat (Twinsen & rebels)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Soldier: Normal gunner"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Soldier: Desert gunner"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Soldier: Himalayan gunner"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Radio equipment"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, rebel in fatigues and mask"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, rebel in fatigues"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sphero: Male rebel in fatigues"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sphero: Male, green clothes"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sphero: Male, yellow clothes"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbiclone: Green"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Car with Twinsen"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Car"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Praying mantis"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Spheroclone, blue-coloured"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Spheroclone, red & yellow"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Spheroclone, green & grey"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "ID card"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Gawley's horn"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sendell's medallion"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, white shirt and blue shorts (fisherman)"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Motorcycle"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Horse ridden by Twinsen"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Horse"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Old orange male, with space guitar"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Old orange Male, with flute"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Joe the Elf"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Raymond the Elf"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Kestrel"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "utant: Eye"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "utant: Egg"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "oulder"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "ook of Bu`"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "abbiclone: Red"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "irate flag"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "ewer-snake"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "roto-pack"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "4-Beamed tank: Normal"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "4-Beamed tank: Himalayan"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Mutant: Crab"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Mutant: Crab without legs"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Mutant: Crab, front pincers"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Hydroglider with Twinsen"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Hydroglider"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Orange male, hipster"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Grobo: Female bartender"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Grobo: Male hipster"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Mutant: Slime blob"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Dino-fly with Twinsen"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Dino-fly"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Guitar player with space guitar"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Rabbibunny: Guitar player"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sphero: At drum set"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Mutant: Twinsen"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Big orange monster-thing"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "FunFrock"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Grobo: Insane flying machine-gun dude"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Shark fin, on post"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Shark fin"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Snowboard"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Flag: Red"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Flag: Green"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Flag: Blue"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Flag: Dark blue"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Computer"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Dump truck"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Constuction worker 1"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Constuction worker 2"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Constuction worker 3"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Bulldozer"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sphero: weirdo"
+    }
+  ]
+}

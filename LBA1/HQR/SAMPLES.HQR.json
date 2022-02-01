@@ -1,0 +1,1168 @@
+{
+  "description": "This file contains the LBA1 sound samples",
+  "entries": [
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Quetch grumble"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck horn"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Soldier hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone turn"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Puff (long)"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Puff (short)"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Soldiers marching"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny calculate"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Dumpster dumps twinsen"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Item popup"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Puff (very long)"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Puff (very long)"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Grobo hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone walk"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone (red) shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Skeleton attack"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone turn"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Stone rolling"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen angry"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Throwing ball"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Crab hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen amazed"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Soldier shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Teleport"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen hits ground"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Zo� hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Kiss"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Factory/Citadel area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Door open"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Explode"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Big item found / task completed"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Skeleton wake up 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Skeleton wake up 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone (green) shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Stone rolling 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Stone rolling 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Fireball"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Boobytrap"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Skeleton walk 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Skeleton walk 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Temple of B� area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen jump"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Survailence system"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Clone hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone move"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck stop"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Quetch hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Grobo attack"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Elevator move"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Grobo clone shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Heartbeat"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen land on ground"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Alarm"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone move"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Wind"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sewer area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Temple of B� area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Clone hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Knock on door"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Key lock"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Whistle"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Ocean"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Ship's horn"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Swing 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Swing 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Item found"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Gate open"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen die"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Grobo alarm"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen in discreet mode 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Twinsen in discreet mode 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Zo� gigle"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck move 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck move 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Boat motor"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Drinking"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck motor"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck stop"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Digging rabbibunny"
+    },
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Space guitar 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Space guitar 2"
+    },
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Space guitar 3"
+    },
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Space guitar 4"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Crowd unhappy"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Crowd happy"
+    },
+    null,
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over floor 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over carpet 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over metal 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over wood 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over snow 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk in a cave 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over sand 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over wet floor 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over grass 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over flower 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over stone 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over rubber 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water 1"
+    },
+    null,
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over floor 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over carpet 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over metal 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over wood 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over snow 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk in a cave 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over sand 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over wet floor 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over grass 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over flower 2 (same as 1)"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over stone 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Walk over rubber 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water 2"
+    },
+    null,
+    null,
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Proto-pack"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water drain"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Desert area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Fisher"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Bells"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Swing"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Lever toggle"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Fireballs"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone calculate 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone calculate 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Rabbibunny clone calculate 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sacred Carrot area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Music"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse galloping 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse galloping 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse galloping 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse galloping 4"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Horse"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Buzzing 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Motor"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Temple of B� guards"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Explode"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Soldier wake-up"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Soldier scared"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Machine gun 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Machine gun 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Explosion"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sewer area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sewer area sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water drop in cave 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water drop in cave 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sphero jump"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sphero hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sphero clone hit 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sphero clone hit 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Shoot"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Clone walking"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Clone sound"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Meca-Penguin ticking 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Meca-Penguin ticking 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Sword"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck move 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Truck move 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Construction 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Construction area sound 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Construction area sound 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Dr. FunFrock grin"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Snore"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Hiccup"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Snowboard 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Snowboard 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Snowboard 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Alarm"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Drown 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Drown 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Drown 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Tank hit"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Swing"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Construction 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Construction 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Tone 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Tone 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Hovercraft"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Digging"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Tone 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Tone 4"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Buzzing 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Water flush"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": ""
+    }
+  ]
+}

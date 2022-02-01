@@ -1,0 +1,1120 @@
+{
+  "description": "This file contains Scenes from LBA 2",
+  "entries": [
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Count of all entries and count of outside scenes."
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 0: Citadel Island, Twinsen's house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 1: Citadel Island, Twinsen's house Secret scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 2: Citadel Island, Tralu 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 3: Citadel Island, Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 4: Citadel Island, Cellar of the Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 5: Citadel Island, Baggage claim building, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 6: Citadel Island, Baggage claim building, 2st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 7: Citadel Island, Mr. Paul House"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 8: Citadel Island, Ticket office"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 9: Citadel Island, Neighbor's house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 10: White Leaf Desert, Temple of B�, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 11: White Leaf Desert, Temple of B�, 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 12: White Leaf Desert, Esmer Base"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 13: Emerald Moon, Outside Baldino's cell"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 14: Citadel Island, Shop"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 15: Citadel Island, Miss Bloop's Private Museum"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 16: Citadel Island, Baggage claim building Secret scene, 3st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 17: Citadel Island, Sewer (below Downtown)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 18: Citadel Island, Sewer Secret scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 19: Citadel Island, Tralu 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 20: Citadel Island, Tralu 3rd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 21: Citadel Island, Tent of the Weather Wizard"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 22: Citadel Island, Downtown Pharmacy"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 23: Emerald Moon, next to outside Baldino's cell"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 24: White Leaf Desert, Hacienda, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 25: White Leaf Desert, Turkish bath (women)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 26: Citadel Island, Dome of the Slate"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 27: White Leaf Desert, School of Magic, 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 28: White Leaf Desert, School of Magic, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 29: White Leaf Desert, Hacienda, 2st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 30: White Leaf Desert, Turkish bath (men)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 31: Emerald Moon, entrance diamond shape building"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 32: White Leaf Desert, Secret passage in Turkish bath (mans)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 33: White Leaf Desert, School of Magic training room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 34: Citadel Island, Sendell's ball room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 35: White Leaf Desert, House of Ker'aooc the Healer"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 36: White Leaf Desert, Bazaar"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 37: Citadel Island, School"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 38: White Leaf Desert, J. Baldino's House"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 39: White Leaf Desert, Bar"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 40: White Leaf Desert, Ticket office"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 41: White Leaf Desert, Esmer Shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 42: Citadel Island, near Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 43: Citadel Island, near the Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 44: Citadel Island, outside the Dome of the Slate"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 45: Citadel Island, near the tent of the Weather Wizard"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 46: Citadel Island, near Lighthouse"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 47: Citadel Island, at the Sendell's sign"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 48: Citadel Island, downstairs the sewer grid"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 49: Citadel Island, near Dino-Fly"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 50: Citadel Island, at the Cliffs of the Woodbridge"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 51: Citadel Island, Spider Cave (room #44)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 52: Emerald Moon, entrance circle symbol building"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 53: Emerald Moon, entrance X symbol building"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 54: Emerald Moon, Baldino's cell"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 55: White Leaf Desert, near Dino-fly"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 56: White Leaf Desert, near the Camel"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 57: White Leaf Desert, at the Von Kournil tour"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 58: White Leaf Desert, near Von Kournil tour"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 59: White Leaf Desert, near Lighthouse"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 60: White Leaf Desert, near J. Baldino's House"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 61: White Leaf Desert, at the School of Magic"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 62: White Leaf Desert, near car jump"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 63: White Leaf Desert, near Temple of B�"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 64: White Leaf Desert, at the Bell"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 65: White Leaf Desert, near Esmer Shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 66: White Leaf Desert, near Bald Mountain"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 67: White Leaf Desert, at the Temple of B�"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 68: White Leaf Desert, near Temple of B�"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 69: White Leaf Desert, near to the Perl of Incandescence entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 70: White Leaf Desert, near Esmer Shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 71: White Leaf Desert, near Bald Mountain"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 72: White Leaf Desert, near Bald Mountain"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 73: White Leaf Desert, at the island across from the Hacienda"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 74: Emerald Moon, somewhere in Emerald Moon"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 75: Emerald Moon, near circle entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 76: Emerald Moon, somewhere in Emerald Moon"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 77: Emerald Moon, near square entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 78: Otringal, Emperor's palace departure room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 79: Otringal, Emperor's palace 1st room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 80: Otringal, Emperor's palace last room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 81: Otringal, the Imperial Hotel"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 82: Otringal, the elevators to the Lower City"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 83: Otringal, Prison entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 84: Otringal Prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 85: Otringal, control tower entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 86: Otringal, the space port"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 87: Otringal, near Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 88: Otringal, the Upper City scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 89: Otringal, the Lower City scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 90: Otringal, the Prison Exit scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 91: Otringal, the scene outside the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 92: Otringal, the space port scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 93: Celebration Island, inside the temple"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 94: Empty water outside scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 95: Celebration Island, the only outside scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 96: Wannies Island, the city outside scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 97: Wannies Island, the ferryman landing place scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 98: Wannies Island, the scene near the Elevator"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 99: Wannies Island, the scene near the entrance of the mine"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 100: Wannies Island, the mine, 2nd room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 101: Wannies Island, the house of the firefly tart-giving family"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 102: Mosquibees Island, the scene on the bridge"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 103: Mosquibees Island, the scene on top of the mountain"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 104: Mosquibees Island, the Mosquibee Queen's throne"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 105: Mosquibees Island, the arrival scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 106: Mosquibees Island, the maze"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 107: Francos Island, the platform scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 108: Francos Island, the scene outside the factory"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 109: Francos Island, the village scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 110: Francos Island, the arrival scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 111: Wannies Island, the mine, 3rd room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 112: Wannies Island, near the temple on the main"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 113: White Leaf Desert, Pearl of Incandescence room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 114: White Leaf Desert, Esmer shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 115: Emerald Moon, Esmer shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 116: Wannies Island, the monk house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 117: Wannies Island, mine temple"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 118: Wannies Island, the city"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 119: Wannies Island, the way to the city temple"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 120: The Elevator Platform Island, the only scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 121: Wannies Island, the city temple"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 122: Wannies Island, the mine, 1st room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 123: Wannies Island, inside the elevator"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 124: Wannies Island, the box transport building"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 125: Wannies Island, Building Company"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 126: Wannies Island, Warehouse"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 127: White Leaf Desert, Temple of B� Secret passage"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 128: Mosquibees Island, Bee test room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 129: Island Under Celebration, the hide out"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 130: Island Under Celebration, the hide out scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 131: Island Under Celebration, the upper scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 132: Island Under Celebration, the arrival scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 133: Otringal, Casino jackpot room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 134: Otringal, Bar backstage"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 135: Otringal, Casino entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 136: Otringal, Bar entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 137: Otringal, Bar - Rick's room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 138: Otringal, the Twinsen and Baldino crash site"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 139: Otringal, the lowest elevators"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 140: Francos gazogem factory, 1st room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 141: Francos gazogem factory, 2nd room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 142: Francos gazogem factory, 3rd room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 143: Francos gazogem factory, 4th room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 144: Francos Island, the guard post near the platform entrance"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 145: Francos gazogem factory, 1st secret room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 146: Francos gazogem factory, 2nd secret room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 147: Otringal, the Twinsunian souvenir shop"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 148: Otringal, the Dissidents' hide out"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 149: Mosquibees Island, the passage to the fragment"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 150: Otringal, the elevator to the Upper City"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 151: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 152: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 153: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 154: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 155: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 156: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 157: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 158: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 159: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 160: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 161: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 162: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 163: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 164: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 165: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 166: Otringal, One of the rooms in the Emperor's palace"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 167: Emerald Moon, entrance triangle symbol room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 168: Emerald Moon, entrance square symbol room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 169: Otringal, Bathroom in the Imperial Hotel"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 170: Otringal, Imperial Hotel, 2nd room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 171: Francos Island, Shop"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 172: Francos Island, Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 173: Francos Island, Scientist's house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 174: Francos Island, Nursery"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 175: Francos Island, Burgermaster's house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 176: Mosquibees Island, the passage to Island CX"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 177: Island CX, Stairs in the control tower"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 178: Island CX, Control tower"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 179: Island CX, the only outside scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 180: Island CX, Secret passage"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 181: Island CX, Room in the emperor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 182: Island CX, Esmer Shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 183: The protection spell cave, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 184: The protection spell cave, 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 185: The Dark Monk statue, the wizards, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 186: The Dark Monk statue, the top, 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 187: The Dark Monk statue, 3rd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 188: The Dark Monk statue, 4th scene (last)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 189: Otringal, Esmer shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 190: Empty lava outside scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 191: White Leaf Desert, Esmer shuttle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 192: The Dark Monk statue Secret scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 193: Demo Scene - Citadel Island, Twinsen's House"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 194: Demo Scene - Citadel Island, Twinsen's house Secret room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 195: Demo Scene - Citadel Island, near Dino-Fly"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 196: Demo Scene - Citadel Island, Twinsen & Zo� walking to Lighthouse."
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 197: Demo Scene - Citadel Island, Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 198: Demo Scene - White Leaf Desert, near Lighhouse"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 199: Demo Scene - White Leaf Desert, Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 200: Demo Scene - White Leaf Desert, city center 1"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 201: Demo Scene - White Leaf Desert, city center 2"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 202: Demo Scene - White Leaf Desert, School of Magic"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 203: Demo Scene - Citadel Island, Dome of the Slate"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 204: Demo Scene - White Leaf Desert, arrived with Dino-Fly"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 205: Demo Scene - Franco Island, harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 206: Demo Scene - Desert Island, near temple park"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 207: Demo Scene - Emerald Moon"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 208: Demo Scene - White Leaf Desert, Temple of B�"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 209: Demo Scene - Otringal, harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 210: Demo Scene - Otringal, Casino"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 211: Demo Scene - Otringal, religion preaching"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 212: Demo Scene - Franco Island, arrival"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 213: Demo Scene - Wannies Island, elevators"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 214: Demo Scene - Wannies Island, the mine"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 215: Demo Scene - Mosquibees Island, the Mosquibee Queen's throne"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 216: Demo Scene - Mosquibees Island, the bridge"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 217: Demo Scene - Otringal, Emperor's palace room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 218: Demo Scene - The Dark Monk statue (last)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 219: Demo Scene - Island Under Celebration"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 220: Demo Scene - White Leaf Desert, Esmer Base"
+    },
+    {
+      "type": "scene",
+      "game": "LBA2",
+      "description": "Scene 221: Demo Scene - Otringal"
+    }
+  ]
+}

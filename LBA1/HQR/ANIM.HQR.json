@@ -1,0 +1,2585 @@
+{
+  "description": "This file contains animations for LBA 1 3D models",
+  "entries": [
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen standing (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking backwards (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning right (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning left (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen jumping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "winsen standing (aggressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen fighting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen throwing magic ball"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen landing (short fall)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen landing (long fall)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen wowing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen getting down"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen leaning from half standing, and crawling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen dying, game over"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen operating something 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen climbing up ladder"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen operating something 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen jumping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen leaning from standing, and crawling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen finishing climbing up ladder"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen starting climbing up ladder"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen operating something 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen blows horn"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen drowning"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen waving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen dead"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning right (athletic mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen jumping backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen drawing sword"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen fighting with sword (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen crawling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen spilling flask"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen standing (athletic mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking backwards (normal mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning left (athletic mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen dying"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen dead"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen fighting with sword (athletic mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen standing (aggressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking (aggressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking backwards (aggressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning left (aggressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning right (aggressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen kicking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen butting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen punching"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen fighting with sword (agressive mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen standing (discreet mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking (discreet mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen walking backwards (discreet mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning left (discreet mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning right (discreet mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen hiding"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen fighting with sword (discreet mode)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen standing (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen hovering forwards (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning left (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen turning right (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen moving left (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen moving right (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen getting hit (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen falling (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen landing (short fall) (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen landing (long fall) (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen drowning (with Proto-Pack)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse writing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse (weak) getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse (strong) getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse rebuking, then walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse pulling out gun"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club running to alarm button"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club in \"move along\" movement"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club alerted"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club pulling out club"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club fighting with club"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club pressing alarm button"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse with club falling 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "urse with club falling 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "urse with club stamping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro getting hit and moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro roaring"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "upergro falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Supergro getting hit and moving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Nurse clothing (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Meca Penguin frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Meca Penguin moving and ticking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dump truck starting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dump truck driving forwars"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dump truck driving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dump truck unloading"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dump truck stopping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo reading"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo getting hit (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo getting hit (animated)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo fighting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo sitting down"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo standing up"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo sitting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo swinging"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sitting grobo getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier alerted 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier alerted 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier saluting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier returns gun"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier hitting with gun"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier sleeping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier waking up"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Scared soldier running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny running 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny saluting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny digging"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny hopping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny waiting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny running 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny waiter pouring"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny drinking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny painter standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny falling (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny getting hit (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny sitting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny fighting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny climbing up ladder"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny painting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny waving 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny waving 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clapping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Surveillance device scanning the area"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Surveillance device moving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Surveillance device shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Surveillance device getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Surveillance device getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Business quetch standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Business quetch walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Business quetch getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Business quetch waving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone standing 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone standing 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone pulling out club and fighting with club"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone fighting with club"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone in \"move along\" movement"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone getting hit, moving right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone getting hit, moving left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone turning left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone lying (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groboclone falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "corrupted entry (?)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone scanning the area"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Green rabbibunny clone getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Turret frozen 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Turret frozen 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Turret frozen 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Turret frozen 4"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Turret shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot walking 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot walking backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot jumping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot fighting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot walking 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot jumping in place 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot jumping in place 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Robot going up and down"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank driving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank stopping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank starting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank driving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tank shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny walking, looking both sides"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny flirting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny talking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny angry"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Female rabbibunny painting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� approaching Twinsen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� kissing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� waving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� operating something"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� kicking 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� headbutting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� jumping backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� kicking 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� landing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� jumping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Zo� turning left, walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Catamaran swinging in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Catamaran swimming forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Catamaran swimming backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Catamaran swimming right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Catamaran swimming left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Ferryboat frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Ferryboat swimming forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Ferryboat swimming backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo sailor walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo sailor getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Grobo sailor standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny sailor saluting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Boat swimming forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Boat swinging in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton sleeping (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton waking up"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton walking angrily"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton fighting with knife"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton kicking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton getting hit 4"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Skeleton bowing down"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Spikes frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Spikes moving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Spikes moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Spikes cylinder frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Spikes cylinder rolling in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Spikes cylinder rolling forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Electro-plant frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Electro-plant expanding"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rebel boat swinging in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rebel boat swimming forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rebel boat opening"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rebel boat swimming backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier with machine gun observing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier with machine gun getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier with machine gun getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Soldier with machine gun shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Radar working"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel crouched"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel standing up and shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel crouched shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel jumping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel moving on"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbinuby rebel throwing grenade"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero rebel standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero rebel walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero rebel getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero rebel getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero rebel throwing grenade"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero rebel shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero hopping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero jumping backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero jumping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero waving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with computer walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with computer scanning the area"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with computer getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with computer getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with computer getting hit (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny clone with coputer shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Car starting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Car driving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Car driving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Car stopping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Car frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis fighting 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Praying mantis fighting 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero clone standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero clone walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero clone getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero clone getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero clone getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Sphero clone shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "ID card (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Object spinning"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbiubnny fisher fishing 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny fisher fishing 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny fisher fishing 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny fisher standing up"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny fisher walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Motorcycle starting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Motorcycle driving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Motorcycle driving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse neighing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse standing wildly"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse moving right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse moving left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse running and jumping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse walking fast"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse jumping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse running wildly"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Horse jumping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny sitting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny sitting playing guitar 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny talking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny sitting playing guitar 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny playing guitar wildly 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny standing up"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny sitting playing guitar 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny playing flute"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Elf standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Elf walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Elf getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Bird standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Bird flying down and forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Bird flying up and forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Eye creature hopping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Eye creature hopping forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Eye creature hopping left and right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Eye creature hopping in circles"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Eye creature hopping backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Eye creature hop-rolling forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rock frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rock rolling forwards 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rock rolling forwards 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rock rolling in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rock getting thrown"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Book of Bu` spinning"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone spinning head"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone walking 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone getting hit and moving right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone getting hit and moving left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone with power off (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone walking 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone shooting at Meca Penguin"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone getting hit and moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Red rabbibunny clone shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Pirate flag (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake lying"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake rising head and stinging"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake stinging"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake crawling forwards 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake crawling forwards 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake getting hit 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snake getting hit 4"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Proto-Pack (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Proto-Pack driving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Big machine gun (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Big machine gun shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Giant crab standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Giant crab turning left and walking right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Giant crab fighting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Giant crab getting hit and moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Giant crab getting hit and moving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Giant crab frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Hydroglider swinging in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Hydroglider driving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy rabbibunny standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy rabbibunny stamping"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy rabbibunny walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy grobo standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy grobo walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy grobo getting hit and moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy grobo running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature standing 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature moving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature standing 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature standing bubbling 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature standing bubbling 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature fighting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Goo creature moving forwards fast"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dinofly standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dinofly starting to fly"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dinofly jumping backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Dinofly flying"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Rabbibunny playing guitar wildly 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Guitarist rabbibunny walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Low-poly Sphero with drums (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Low-poly Sphero with drums playing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen clone lying"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen clone standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen clone waking up"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature sniffing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature jumping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature bumping forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature rolling forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature hopping forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature getting hit and moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Huge orange creature frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock running"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock fighting with sword"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock jumping 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock walking right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock walking left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock landing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock jumping 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock going up and down"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock talking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "FunFrock throwing ball"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Flying grobo flying in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Flying grobo flying forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Flying grobo flying forwards, shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Flying grobo getting hit, moving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Flying grobo getting hit, moving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Fake shark frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Fake shark moving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Fake shark moving forwards going up and down"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Snowboard (frozen)"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Flag waving"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 3"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 4"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 5"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 6"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 7"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Twinsen with snowboard skiing 8"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Computer working"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Computer getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction truck driving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction truck starting 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction truck driving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction truck starting 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 digging"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 alerted"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 fighting 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 fighting 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 moving left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 moving right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 1 walking angrily"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 standing 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 fighting 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 walking"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 standing 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 fighting 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 getting hit 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 getting hit 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 moving right"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 moving left"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 walking angrily"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 landing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 2 alerted"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 digging"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 pulling out gun and shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 shooting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 getting hit"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 alerted"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 falling"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Construction worker 3 landing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor starting"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor driving forwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor fighting 1"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor fighting 2"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor working"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor driving backwards"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor frozen"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Tractor jumping in place"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy sphero standing"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Groovy sphero walking"
+    }
+  ]
+}

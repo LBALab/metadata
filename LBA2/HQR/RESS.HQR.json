@@ -1,0 +1,194 @@
+{
+  "description": "This file contains various resources",
+  "entries": [
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Main game palette"
+    },
+    {
+      "type": "font",
+      "game": "BOTH",
+      "description": "Main game font"
+    },
+    null,
+    null,
+    null,
+    {
+      "type": "sprite_actors",
+      "game": "BOTH",
+      "description": "Sprite Actor information"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Small pattern textures"
+    },
+    null,
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Game Over model"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Black palette"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Foggy palette"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Cloud textures"
+    },
+    null,
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Water textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Emerald Moon textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Gas textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Lava textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Lava textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Lava textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Gas textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Gas textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Gas textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Lava textures"
+    },
+    null,
+    null,
+    null,
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Water textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    null,
+    null,
+    null,
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Shading palettes"
+    },
+    null,
+    {
+      "type": "entities",
+      "game": "LBA2",
+      "description": "Characters information"
+    },
+    null,
+    {
+      "type": "shapes",
+      "game": "LBA2",
+      "description": "Main game vector shapes"
+    },
+    null,
+    {
+      "type": "smk_movies_indices",
+      "game": "LBA2",
+      "description": "SMK movie index"
+    }
+  ]
+}

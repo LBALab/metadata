@@ -1,0 +1,605 @@
+{
+  "description": "This file contains Scenes from LBA 1",
+  "entries": [
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 0: Citadel Island, Prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 1: Citadel Island, outside the citadel"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 2: Citadel Island, near the tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 3: Citadel Island, near the pharmacy"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 4: Citadel Island, near twinsens house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 5: Citadel Island, inside Twinsens house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 6: Citadel Island, Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 7: Citadel Island, Pharmacy"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 8: White Leaf Desert, Temple of B� 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 9: Hamalayi Mountains, landing place"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 10: Principal Island, Library"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 11: Principal Island, Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 12: Principal Island, outside the fortress"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 13: Principal Island, Lupin Burg"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 14: Citadel Island, Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 15: Hamalayi Mountains, Rabbibunny village"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 16: Citadel Island, inside a Rabbibunny house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 17: Principal Island, Ruins"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 18: Principal Island, outside the library"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 19: Principal Island, Militairy camp"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 20: Citadel Island, Architects house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 21: Citadel Island, secret chamber in the house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 22: Principal Island, Ticket office"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 23: Principal Island, Prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 24: Principal Island, Port Belooga"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 25: Principal Island, Peg Leg Street"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 26: Principal Island, Shop"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 27: Principal Island, Locksmith"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 28: Principal Island, inside a Rabbibunny house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 29: Principal Island, Astronimers House"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 30: Principal Island, Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 31: Principal Island, Basement of the Astronomer"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 32: Principal Island, Stables"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 33: Citadel Island, Cellar of the Tavern"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 34: Citadel Island, Sewer of the 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 35: Citadel Island, Warehouse"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 36: White Leaf Desert, outside the Temple of B�"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 37: Principal Island, outside the water tower"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 38: Principal Island, inside the water tower"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 39: White Leaf Desert, Militairy camp"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 40: White Leaf Desert, Temple of B� 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 41: White Leaf Desert, Temple of B� 3rd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 42: Proxima Island, Proxim City"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 43: Proxima Island, Museum"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 44: Proxima Island, near the Inventors house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 45: Proxima Island, upper rune stone"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 46: Proxima Island, lower rune stone"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 47: Proxima Island, befor the upper rune stone"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 48: Proxima Island, Forgers house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 49: Proxima Island, Prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 50: Proxima Island, Shop"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 51: Proxima Island, Sewer"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 52: Principal Island, house at Peg Leg Street"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 53: Proxima Island, Grobo house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 54: Proxima Island, Inventors house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 55: Citadel Island, Sewer (secret)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 56: Principal Island, Sewer (secret)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 57: White Leaf Desert, Maze"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 58: Principal Island, House with the TV"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 59: Rebelion Island, Harbor"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 60: Rebelion Island, Rebel camp"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 61: Some room (cut-out ?)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 62: Hamalayi Mountains, 1st fighting scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 63: Hamalayi Mountains, 2nd fighting scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 64: Hamalayi Mountains, Prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 65: Hamalayi Mountains, outside the transporter"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 66: Hamalayi Mountains, inside the transporter"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 67: Hamalayi Mountains, Mutation centre 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 68: Hamalayi Mountains, Mutation centre 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 69: Hamalayi Mountains, 3rd fighting scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 70: Hamalayi Mountains, Entrance to the prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 71: Hamalayi Mountains, outside the prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 72: Hamalayi Mountains, Catamaran dock"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 73: Hamalayi Mountains, Bunker near clear water"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 74: Tippet Island, Village"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 75: Tippet Island, Secret passage scene 2"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 76: Tippet Island, near the bar"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 77: Tippet Island, Secret passage scene 1"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 78: Tippet Island, near the Dino-Fly"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 79: Tippet Island, Secret passage scene 3"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 80: Tippet Island, Twinsun Cafe"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 81: Hamalayi Mountains, Sacret Carrot"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 82: Hamalayi Mountains, Backdoor of the prison"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 83: Fortress Island, inside the fortress"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 84: Fortress Island, outside the forstress"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 85: Fortress Island, Secret passage scene 1"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 86: Fortress Island, Secret in the fortress"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 87: Fortress Island, near Zoes cell"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 88: Fortress Island, Swimming pool"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 89: Fortress Island, Cloning centre"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 90: Fortress Island, Rune stone"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 91: Hamalayi Mountains, Behind th sacret carrot"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 92: Hamalayi Mountains, Clear water lake"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 93: Fortress Island, outside fortress destroyed"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 94: Brundle Island, outside the teleportation"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 95: Brundle Island, inside the teleportation"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 96: Hamalayi Mountains, Ski resort"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 97: Brundle Island, Docks"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 98: Brundle Island, Secret room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 99: Brundle Island, near the telepods"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 100: Fortress Island, Docks"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 101: Tippet Island, Shop"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 102: Principal Island, house in port Belooga"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 103: Brundle Island, Painters house"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 104: Citadel Island, Ticket Office"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 105: Principal Island, inside the fortress"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 106: Polar Island, 2nd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 107: Polar Island, 3rd scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 108: Polar Island, Before the rocky peak"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 109: Polar Island, 4th scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 110: Polar Island, The rocky peak"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 111: Polar Island, on the rocky peak"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 112: Polar Island, Before the end room"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 113: Polar Island, Final Battle"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 114: Polar Island, end scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 115: Polar Island, 1st scene"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 116: Citadel Island, end sequence (1)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 117: Citadel Island, end sequence (2)"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 118: Citadel Island, Twinsens house destroyed"
+    },
+    {
+      "type": "scene",
+      "game": "LBA1",
+      "description": "Scene 119: Credits List Sequence"
+    }
+  ]
+}

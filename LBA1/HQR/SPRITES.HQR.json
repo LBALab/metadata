@@ -1,0 +1,595 @@
+{
+  "description": "This file contains sprites",
+  "entries": [
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Tank bullet ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Green magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Coin"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Life heart"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Magic"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Key"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Leaf"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Yellow bullet"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red bullet"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Groboclone white bullet"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door #1 (house)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door #2 (house)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Fire magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Plataform #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Prison door (grid)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Prison door (harmed)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Prison door (with the F word)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Fence #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Fence #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Bomb"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Bolt bullet"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Fence #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Fence #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door #3 (last scene) ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Moving plataform machine #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Platform #2 (Prison)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Platform #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Moving plataform machine #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Platform #4 (sewer access)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Barrel"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wood door #1 (Twinsen house)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wood door #2 (Twinsen's house secret scene)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Bottle of Syrup"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Passage to the electric thing #1 ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal fence #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Passage to the electric thing #2 ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Prison door #4 (wood)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "FunFrock bust"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Cadre"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Grey bullet #1 ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Clover leaf"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Green magic ball (same as 3 ?? )"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Transparent yellow magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Library door #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Library door #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Package"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Ground square #1 (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Quetch statue (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wood door #3 (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wood door #4 (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall (false door ??)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Double Lever (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal fence #2 (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Single Lever (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Ground square #2 (Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Frozen mushroom"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door padlock (Forger's house)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "?? (some bullet - Temple of Bu`)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Runic Stone"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #1 (near Runic Stone)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #2 (White Leaf Desert)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Grey bullet #2 ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Grey bullet #3 ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Grey bullet #4 ??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Missile"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Red Bullet"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Twinsun globe"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Z (sleeping guard)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Platform #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Book #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Reinforce door"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Wall (Library secret passage)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Book #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Hatchway #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Hatchway #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #4 (visible)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #5 (hiden)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Metal fence #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #6"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Lever #1 (up)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Lever #2 (down)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #7 (painted - hiden)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Sendell's sign #8 (painted - visible)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "False frozen ground (Rabbibunny Village)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Talk symbol #1 (right)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Talk symbol #2 (left)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Mushroom"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Keypad"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "??"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Broken lever (clones Factory)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "False ground (some platform ??)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #6"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #7"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Explosion sequence #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "FunFrock safe"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Twinsen & Zo� statue (covered)"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Door #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Platform with Sendell's sign"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Transparent green magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Transparent red magic ball"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #1"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #2"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #3"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #4"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #5"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #6"
+    },
+    {
+      "type": "sprite",
+      "game": "BOTH",
+      "description": "Some sequence #7"
+    }
+  ]
+}

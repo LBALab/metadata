@@ -1,0 +1,395 @@
+{
+  "description": "This file contains images that are shown in full screen in the game (like telescope views, intro images, maps).",
+  "entries": [
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "First logo picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for first logo picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "LBA2 DEMO picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for LBA2 DEMO picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Menu background"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for menu background"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Magic slate picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for magic slate picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Map of the sewers"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for map of the sewers"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Map of the sewers (on the slate)"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for map of the sewers (on the slate)"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Map of the Dome of the slate"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for map of the Dome of the slate"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Copy of the map of the Dome of the slate"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for copy of the map of the Dome of the slate"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Map of Emerald Moon"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for map of Emerald Moon"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Copy of the map of Emerald moon"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for copy of the Map of Emerald Moon"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "View of the island acros the hacienda"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for view of the island across the hacienda"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "View of the lighthouse (night)"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for view of the lighthouse (night)"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "View of the lighthouse (day)"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for view of the lighthouse (day)"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "1st presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 1st presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "2nd presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 2nd presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "3rd presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 3rd presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "View of Emerald Moon"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for view of Emerald Moon"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Temple on the Island of the Wannies"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Temple on the Island of the Wannies"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Dissection of Twinsun"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Dissection of Twinsun"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Mona Twinsen"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Mona Twinsen"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Dissection of Zeelich"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Dissection of Zeelich"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Copy of the dissection of Zeelich"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for copy of dissection of Zeelich"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Wanted: Twinsen"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Wanted: Twinsen"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "4th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 4th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "5th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 5th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "6th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 6th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "7th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 7th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "8th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 8th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "9th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 9th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "10th presentation picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for 10th presentation picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Twinsen + Zoé on CD"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Twinsen + Zoé on CD"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Sendell's Ball"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Sendell's Ball"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Plan of island CX"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for plan of island CX"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Copy of the plan of island CX"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for copy of the plan of island CX"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Twinsen on the well of Sendell"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Twinsen on the well of Sendell"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Sendell on the well of Sendell"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for Sendell on the well of Sendell"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Second logo picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for second logo picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Alternative second logo picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for alternative second logo picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Second alternative second logo picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for second alternative second logo picture"
+    }
+  ]
+}

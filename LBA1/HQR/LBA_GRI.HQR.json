@@ -1,0 +1,675 @@
+{
+  "description": "This file contains islands and building interior structures from LBA 1",
+  "entries": [
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 0: Citadel Island, Prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 1: Citadel Island, outside the citadel"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 2: Citadel Island, near the tavern"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 3: Citadel Island, near the pharmacy"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 4: Citadel Island, near twinsens house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 5: Citadel Island, inside Twinsen's house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 6: Citadel Island, Harbor"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 7: Citadel Island, Pharmacy"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 8: White Leaf Desert, Temple of B� 1st scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 9: Hamalayi Mountains, landing place"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 10: Principal Island, Library"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 11: Principal Island, Harbor"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 12: Principal Island, outside the fortress"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 13: Principal Island, Lupin Burg"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 14: Citadel Island, Tavern"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 15: Hamalayi Mountains, Rabbibunny village"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 16: Citadel Island, inside a Rabbibunny house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 17: Principal Island, Ruins"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 18: Principal Island, outside the library"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 19: Principal Island, Militairy camp"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 20: Citadel Island, Architects house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 21: Citadel Island, secret chamber in the house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 22: Principal Island, Ticket office"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 23: Principal Island, Prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 24: Principal Island, Port Belooga"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 25: Principal Island, Peg Leg Street"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 26: Principal Island, Shop"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 27: Principal Island, Locksmith"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 28: Principal Island, inside a Rabbibunny house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 29: Principal Island, Astronimers House"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 30: Principal Island, Tavern"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 31: Principal Island, Basement of the Astronomer"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 32: Principal Island, Stables"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 33: Citadel Island, Cellar of the Tavern"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 34: Citadel Island, Sewer of the 1st scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 35: Citadel Island, Warehouse"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 36: White Leaf Desert, outside the Temple of B�"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 37: Principal Island, outside the water tower"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 38: Principal Island, inside the water tower"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 39: White Leaf Desert, Militairy camp"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 40: White Leaf Desert, Temple of B� 2nd scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 41: White Leaf Desert, Temple of B� 3rd scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 42: Proxima Island, Proxim City"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 43: Proxima Island, Museum"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 44: Proxima Island, near the Inventors house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 45: Proxima Island, upper rune stone"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 46: Proxima Island, lower rune stone"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 47: Proxima Island, befor the upper rune stone"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 48: Proxima Island, Forgers house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 49: Proxima Island, Prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 50: Proxima Island, Shop"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 51: Proxima Island, Sewer"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 52: Principal Island, house at Peg Leg Street"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 53: Proxima Island, Grobo house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 54: Proxima Island, Inventors house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 55: Citadel Island, Sewer (secret)"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 56: Principal Island, Sewer (secret)"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 57: White Leaf Desert, Maze"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 58: Principal Island, House with the TV"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 59: Rebelion Island, Harbor"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 60: Rebelion Island, Rebel camp"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 61: Some room (cut-out)"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 62: Hamalayi Mountains, 1st fighting scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 63: Hamalayi Mountains, 2nd fighting scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 64: Hamalayi Mountains, Prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 65: Hamalayi Mountains, outside the transporter"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 66: Hamalayi Mountains, inside the transporter"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 67: Hamalayi Mountains, Mutation centre 1st scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 68: Hamalayi Mountains, Mutation centre 2nd scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 69: Hamalayi Mountains, 3rd fighting scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 70: Hamalayi Mountains, Entrance to the prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 71: Hamalayi Mountains, outside the prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 72: Hamalayi Mountains, Catamaran dock"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 73: Hamalayi Mountains, Bunker near clear water"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 74: Tippet Island, Village"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 75: Tippet Island, Secret passage scene 2"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 76: Tippet Island, near the bar"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 77: Tippet Island, Secret passage scene 1"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 78: Tippet Island, near the Dino-Fly"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 79: Tippet Island, Secret passage scene 3"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 80: Tippet Island, Twinsun Cafe"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 81: Hamalayi Mountains, Sacret Carrot"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 82: Hamalayi Mountains, Backdoor of the prison"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 83: Fortress Island, inside the fortress"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 84: Fortress Island, outside the forstress"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 85: Fortress Island, Secret passage scene 1"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 86: Fortress Island, Secret in the fortress"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 87: Fortress Island, near Zoe's cell"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 88: Fortress Island, Swimming pool"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 89: Fortress Island, Cloning center"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 90: Fortress Island, Rune stone"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 91: Hamalayi Mountains, Behind the sacret carrot"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 92: Hamalayi Mountains, Clear water lake"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 93: Fortress Island, outside fortress destroyed"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 94: Brundle Island, outside the teleportation"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 95: Brundle Island, inside the teleportation"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 96: Hamalayi Mountains, Ski resort"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 97: Brundle Island, Docks"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 98: Brundle Island, Secret room"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 99: Brundle Island, near the telepods"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 100: Fortress Island, Docks"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 101: Tippet Island, Shop"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 102: Principal Island, house in port Belooga"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 103: Brundle Island, Painters house"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 104: Citadel Island, Ticket Office"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 105: Principal Island, inside the fortress"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 106: Polar Island, 2nd scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 107: Polar Island, 3rd scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 108: Polar Island, Before the rocky peak"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 109: Polar Island, 4th scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 110: Polar Island, The rocky peak"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 111: Polar Island, on the rocky peak"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 112: Polar Island, Before the end room"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 113: Polar Island, Final Battle"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 114: Polar Island, end scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 115: Polar Island, 1st scene"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 116: Citadel Island, end sequence (1)"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 117: Citadel Island, end sequence (2)"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 118: Citadel Island, Twinsen's house destroyed"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Grid 119: Credits List background (invisible)"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 0: Fragment 1 for 'Citadel Island Prison'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 1: Fragment piece 2 for 'Citadel Island Prison'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 2: Fragment piece 3 for 'Citadel Island Prison'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 3: Fragment piece 4 for 'Citadel Island Prison'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 4: Fragment piece for 'Inside Twinsen's house'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 5: Fragment piece for 'Principal Island Library'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 6: Fragment piece for 'Princ. Isl. Inside Water Tower'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 7: Fragment piece for 'Citadel Isl. Secret Chamber'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 8: Fragment piece for 'Fortress Island Swimming Pool'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 9: Fragment piece for 'Fort. Isl. near Zoe's cell'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 10: Fragment piece for 'Hamal. Mount. Clear Water Lake'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 11: Fragment piece for 'Brundle Isl. near the telepods'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 12: Fragment piece for 'Brundle Isl. in. Teleportation'"
+    },
+    {
+      "type": "iso_scenery",
+      "game": "LBA1",
+      "description": "Fragment 13: Fragment piece for 'Desert outside Temple of B�'"
+    }
+  ]
+}

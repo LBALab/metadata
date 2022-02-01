@@ -1,0 +1,145 @@
+{
+  "description": "This file contains the LBA1 inventory 3D models",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Magic ball"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "FunFrock's saber"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Gawleys horn"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Tunic"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Book of B�"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Sendels's medallion"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Flask of clear water"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Red card"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Blue card"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "ID card"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Mr. Mies' pass"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Proto-Pack"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Snowboard"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Meca Penguin"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Gas"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Pirate flag"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Magic flute"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Space guitar"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Hair dryer"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Ancesteral key"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Bottle of sirup"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Empty bottle"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Ferry ticket"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Keypad"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Coffee can"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Bonuses list"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Clover leaf"
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+{
+  "description": "This file contains sprites (images that use transparency), but in different format than sprites in ",
+  "entries": [
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Empty clover box"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Full clover box"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Dart"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Life heart"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Magic vial"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small Key"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Clover"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Yellow magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Green magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Red magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Fire magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Yellow magic ball shadow"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Green magic ball shadow"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Red magic ball shadow"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Fire magic ball shadow 1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Fire magic ball shadow 2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Fire magic ball shadow 3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Kashes"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Zlitos"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Red sphere"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Star"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small yellow magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small green magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small red magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Smaller yellow magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Smaller green magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Smaller red magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Two mushrooms"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Three mushrooms"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Blue sphere (protection spell)"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Mechanical parts (from Francos refinery)"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Smaller fire magic ball"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Stone"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small stone"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Green-white sphere"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Bigger gray sphere 1 (from Mosquibees island)"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Bigger gray sphere 2 (from Mosquibees island)"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 4"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 5"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 6"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 7"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 8"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": ""
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 9"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 10"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 11"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 12"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 13"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 14"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 15"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 16"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 17"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 18"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 19"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 20"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gas animation 21"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Undergas stones"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Undergas stone 1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Undergas stone 2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Undergas stone 3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Undergas stone 4"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Undergas stone 5"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small undergas stone 1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small undergas stone 2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Small undergas stone 3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 4"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 5"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 6"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Gray sphere 7"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Explosion animation 1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Explosion animation 2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Explosion animation 3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Explosion animation 4"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  1"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  2"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  3"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  4"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  5"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  6"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  7"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  8"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation  9"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 10"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 11"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 12"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 13"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 14"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 15"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 16"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 17"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 18"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 19"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 20"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 21"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 22"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 23"
+    },
+    {
+      "type": "raw_sprite",
+      "game": "LBA2",
+      "description": "Wizards' power animation 24"
+    }
+  ]
+}

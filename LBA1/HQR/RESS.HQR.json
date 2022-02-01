@@ -1,0 +1,271 @@
+{
+  "description": "This file contains various game resources: the font, textures, some generic models, etc.",
+  "entries": [
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Main game palette"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Main game font"
+    },
+    null,
+    {
+      "type": "sprite_actors",
+      "game": "BOTH",
+      "description": "Sprite actor data"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Shadow sprite"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for holomap overlay"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Surface for holomap overlay"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Twinsun holomap overlay"
+    },
+    {
+      "type": "holomap_locations",
+      "game": "LBA1",
+      "description": "Holomap location information"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap Twinsen model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap arrow model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap Twinsen on arrow model"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Relentless intro picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for third intro picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Menu background"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Twinsun from outer space image"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for first new game intro picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "FunFrock's fortress image"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for second new game intro picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Two islands at night picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for third new game intro picture"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Game over model"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Red palette"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "FLA movies information"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Dark palette"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Twinsen, Zoe and Sendell in the Well"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for final talk with Sendell picture"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Adeline logo"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for first intro picture"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap point model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for point model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap ferry boat model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for ferry boat model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap motorbike model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for motorbike model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap car with Twinsen model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for car with Twinsen model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap fishing boat model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for fishing boat model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap catamaran model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for catamaran model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap hovercraft model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for hovercraft model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap Dino-fly with Twinsen model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for Dino-fly with Twinsen model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap army boat (rebels) model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for army boat (rebels) model"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA1",
+      "description": "Holomap Hamalayi transporter model"
+    },
+    {
+      "type": "animation",
+      "game": "LBA1",
+      "description": "Animation for Hamalayi transporter model"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Little Big Adventure intro picture"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for alternative third intro picture"
+    },
+    {
+      "type": "unknown",
+      "game": "N/A",
+      "description": "Information for menu plasma effect"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Electronic Arts logo"
+    },
+    {
+      "type": "palette",
+      "game": "BOTH",
+      "description": "Palette for second intro picture"
+    }
+  ]
+}
