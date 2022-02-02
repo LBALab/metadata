@@ -1,0 +1,236 @@
+{
+  "BOTH": {
+    "unknown": {
+      "extension": "lun",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/Entry_of_unknown_format"
+      ]
+    },
+    "sprite": {
+      "extension": "lsp",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/Sprite_image"
+      ]
+    },
+    "palette": {
+      "extension": "pal",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/Colour_palette"
+      ]
+    },
+    "font": {
+      "extension": "lfn",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/In-game_font"
+      ]
+    },
+    "sprite_actors": {
+      "extension": "sad",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/Sprite_actor_data"
+      ]
+    },
+    "image": {
+      "extension": "lim",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA_image"
+      ]
+    },
+    "brick": {
+      "extension": "brk",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/Brick"
+      ]
+    },
+    "dialogs_index": {
+      "extension": "ord",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/Dialog_index_file"
+      ]
+    }
+  },
+  "LBA1": {
+    "animation": {
+      "extension": "an1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Animation"
+      ]
+    },
+    "iso_layout_library": {
+      "extension": "bl1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Block_library"
+      ]
+    },
+    "iso_scenery": {
+      "extension": "gr1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Grid"
+      ]
+    },
+    "scene": {
+      "extension": "ls1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Isometric_scene"
+      ]
+    },
+    "creative_labs_audio": {
+      "extension": "voc",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Creative_voice_sample"
+      ]
+    },
+    "mesh": {
+      "extension": "lm1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:3D_model"
+      ]
+    },
+    "entity": {
+      "extension": "3de",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:File3D_entity"
+      ]
+    },
+    "dialogs": {
+      "extension": "lbt1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Dialogs_file"
+      ]
+    },
+    "holomap_locations": {
+      "extension": "hl1",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Holomap_location_file"
+      ]
+    }
+  },
+  "LBA2": {
+    "animation": {
+      "extension": "an2",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Animation"
+      ]
+    },
+    "iso_layout_library": {
+      "extension": "bl2",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Block_library"
+      ]
+    },
+    "iso_scenery": {
+      "extension": "gr2",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Grid"
+      ]
+    },
+    "iso_scenery_fragment": {
+      "extension": "grf",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Grid_fragment"
+      ]
+    },
+    "scene": {
+      "extension": "ls2",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Isometric_scene"
+      ]
+    },
+    "mesh": {
+      "extension": "lm2",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:3D_model"
+      ]
+    },
+    "entities_info": {
+      "extension": "f3d",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Entity_information"
+      ]
+    },
+    "shapes": {
+      "extension": "lsh",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Shape_file"
+      ]
+    },
+    "movies_info": {
+      "extension": "txt",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Movie_index"
+      ]
+    },
+    "dialogs": {
+      "extension": "lbt2",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Dialogs_file"
+      ]
+    },
+    "animation_3ds": {
+      "extension": "3ds",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:3DS_animation"
+      ]
+    },
+    "island_layout": {
+      "extension": "lay",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_layout_info"
+      ]
+    },
+    "island_section": {
+      "extension": "lsi",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_section_info"
+      ]
+    },
+    "island_objects": {
+      "extension": "loi",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_objects_info"
+      ]
+    },
+    "island_polygons": {
+      "extension": "lpg",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_polygons"
+      ]
+    },
+    "island_texture_uvs": {
+      "extension": "luv",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_texture_uvs"
+      ]
+    },
+    "island_heightmap": {
+      "extension": "lhm",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_heightmap"
+      ]
+    },
+    "island_intensities": {
+      "extension": "li",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Island_intensities"
+      ]
+    },
+    "credits": {
+      "extension": "cre",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Credits"
+      ]
+    },
+    "wave_audio": {
+      "extension": "wav",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Wave_file"
+      ]
+    },
+    "raw_sprite": {
+      "extension": "lsr",
+      "documentation": [
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Raw_sprite_image"
+      ]
+    }
+  }
+}
