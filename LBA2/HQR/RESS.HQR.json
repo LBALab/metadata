@@ -186,7 +186,7 @@
     },
     null,
     {
-      "type": "smk_movies_indices",
+      "type": "movies_info",
       "game": "LBA2",
       "description": "SMK movie index"
     }
