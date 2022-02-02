@@ -44,7 +44,7 @@
     {
       "type": "iso_scenery",
       "game": "LBA1",
-      "description": "Grid 8: White Leaf Desert, Temple of B� 1st scene"
+      "description": "Grid 8: White Leaf Desert, Temple of Bú 1st scene"
     },
     {
       "type": "iso_scenery",
@@ -184,7 +184,7 @@
     {
       "type": "iso_scenery",
       "game": "LBA1",
-      "description": "Grid 36: White Leaf Desert, outside the Temple of B�"
+      "description": "Grid 36: White Leaf Desert, outside the Temple of Bú"
     },
     {
       "type": "iso_scenery",
@@ -204,12 +204,12 @@
     {
       "type": "iso_scenery",
       "game": "LBA1",
-      "description": "Grid 40: White Leaf Desert, Temple of B� 2nd scene"
+      "description": "Grid 40: White Leaf Desert, Temple of Bú 2nd scene"
     },
     {
       "type": "iso_scenery",
       "game": "LBA1",
-      "description": "Grid 41: White Leaf Desert, Temple of B� 3rd scene"
+      "description": "Grid 41: White Leaf Desert, Temple of Bú 3rd scene"
     },
     {
       "type": "iso_scenery",
@@ -669,7 +669,7 @@
     {
       "type": "iso_scenery",
       "game": "LBA1",
-      "description": "Fragment 13: Fragment piece for 'Desert outside Temple of B�'"
+      "description": "Fragment 13: Fragment piece for 'Desert outside Temple of Bú'"
     }
   ]
 }

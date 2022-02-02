@@ -59,12 +59,12 @@
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 10: White Leaf Desert, Temple of B�, 1st scene"
+      "description": "Scene 10: White Leaf Desert, Temple of Bú, 1st scene"
     },
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 11: White Leaf Desert, Temple of B�, 2nd scene"
+      "description": "Scene 11: White Leaf Desert, Temple of Bú, 2nd scene"
     },
     {
       "type": "scene",
@@ -324,7 +324,7 @@
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 63: White Leaf Desert, near Temple of B�"
+      "description": "Scene 63: White Leaf Desert, near Temple of Bú"
     },
     {
       "type": "scene",
@@ -344,12 +344,12 @@
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 67: White Leaf Desert, at the Temple of B�"
+      "description": "Scene 67: White Leaf Desert, at the Temple of Bú"
     },
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 68: White Leaf Desert, near Temple of B�"
+      "description": "Scene 68: White Leaf Desert, near Temple of Bú"
     },
     {
       "type": "scene",
@@ -644,7 +644,7 @@
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 127: White Leaf Desert, Temple of B� Secret passage"
+      "description": "Scene 127: White Leaf Desert, Temple of Bú Secret passage"
     },
     {
       "type": "scene",
@@ -989,7 +989,7 @@
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 196: Demo Scene - Citadel Island, Twinsen & Zo� walking to Lighthouse."
+      "description": "Scene 196: Demo Scene - Citadel Island, Twinsen & Zoé walking to Lighthouse."
     },
     {
       "type": "scene",
@@ -1049,7 +1049,7 @@
     {
       "type": "scene",
       "game": "LBA2",
-      "description": "Scene 208: Demo Scene - White Leaf Desert, Temple of B�"
+      "description": "Scene 208: Demo Scene - White Leaf Desert, Temple of Bú"
     },
     {
       "type": "scene",

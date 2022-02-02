@@ -59,12 +59,12 @@
     {
       "type": "iso_scenery",
       "game": "LBA2",
-      "description": "Grid 10: White Leaf Desert, Temple of B�, 1st room"
+      "description": "Grid 10: White Leaf Desert, Temple of Bú, 1st room"
     },
     {
       "type": "iso_scenery",
       "game": "LBA2",
-      "description": "Grid 11: White Leaf Desert, Temple of B�, 2nd room"
+      "description": "Grid 11: White Leaf Desert, Temple of Bú, 2nd room"
     },
     {
       "type": "iso_scenery",
@@ -384,7 +384,7 @@
     {
       "type": "iso_scenery",
       "game": "LBA2",
-      "description": "Grid 75: White Leaf Desert, Temple of B� Secret passage"
+      "description": "Grid 75: White Leaf Desert, Temple of Bú Secret passage"
     },
     {
       "type": "iso_scenery",
@@ -709,7 +709,7 @@
     {
       "type": "iso_scenery",
       "game": "LBA2",
-      "description": "Grid 140: Demo Room - White Leaf Desert, Temple of B�"
+      "description": "Grid 140: Demo Room - White Leaf Desert, Temple of Bú"
     },
     {
       "type": "iso_scenery",
