@@ -3,7 +3,7 @@
   "entries": [
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Information entry"
     },
     {
@@ -18891,7 +18891,7 @@
     null,
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Scene align information data"
     }
   ]

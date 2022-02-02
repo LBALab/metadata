@@ -8,7 +8,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Main game font"
     },
     null,
@@ -19,7 +19,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Shadow sprite"
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Surface for holomap overlay"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "FLA movies information"
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Information for menu plasma effect"
     },
     {

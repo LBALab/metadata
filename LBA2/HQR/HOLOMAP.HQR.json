@@ -3,12 +3,12 @@
   "entries": [
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Holomap texture information"
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Surface info for Twinsun holomap overlay"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Surface info for Emerald Moon overlay"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Surface info for Zeelich overlay"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Surface info for Zeelich undergas overlay"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Holomap arrow information"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Citadel Island by night"
     },
     null,
@@ -98,7 +98,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Desert Island"
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Emerald moon"
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Otringal"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Celebration Island"
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Wannies Island"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Mosquibees Island"
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Francos Island"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Isle CX"
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for undergas elevator"
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Under celebration"
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Citadel Island (daytime)"
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "type": "unknown",
-      "game": "N/A",
+      "game": "BOTH",
       "description": "Arrow info for Celebration Island with statue"
     }
   ]
