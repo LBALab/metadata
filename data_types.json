@@ -59,19 +59,19 @@
     "iso_layout_library": {
       "extension": "bl1",
       "documentation": [
-        "http://lbafileinfo.kaziq.net/index.php/LBA2:Block_library"
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Block_library"
       ]
     },
     "iso_scenery": {
       "extension": "gr1",
       "documentation": [
-        "http://lbafileinfo.kaziq.net/index.php/LBA2:Grid"
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Grid"
       ]
     },
     "scene": {
       "extension": "ls1",
       "documentation": [
-        "http://lbafileinfo.kaziq.net/index.php/LBA2:Isometric_scene"
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Isometric_scene"
       ]
     },
     "creative_labs_audio": {
@@ -83,7 +83,7 @@
     "mesh": {
       "extension": "lm1",
       "documentation": [
-        "http://lbafileinfo.kaziq.net/index.php/LBA2:3D_model"
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:3D_model"
       ]
     },
     "entity": {
@@ -95,7 +95,7 @@
     "dialogs": {
       "extension": "lbt1",
       "documentation": [
-        "http://lbafileinfo.kaziq.net/index.php/LBA2:Dialogs_file"
+        "http://lbafileinfo.kaziq.net/index.php/LBA1:Dialogs_file"
       ]
     },
     "holomap_locations": {
@@ -109,7 +109,7 @@
     "animation": {
       "extension": "an2",
       "documentation": [
-        "http://lbafileinfo.kaziq.net/index.php/LBA1:Animation"
+        "http://lbafileinfo.kaziq.net/index.php/LBA2:Animation"
       ]
     },
     "iso_layout_library": {
