@@ -1,0 +1,490 @@
+{
+  "description": "",
+  "entries": [
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Holomap"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Magic Ball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for darts"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Sendell's Ball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Tunic and Medallion"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Pearl of Incandescence"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for pyramid key"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for part for the car"
+    },
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for laser pistol"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for emperor's sword"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Wannie's glove"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Proto-Pack"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for ferry ticket"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Mecha-Penguin"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Gazogem"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Dissidents' Ring"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for gallic acid"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for ferryman's song"
+    },
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for umbrella"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for gem"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Triton's Horn"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for blowgun"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for itinerary token"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for slice of tart"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for portable radio"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Garden Balsam"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Magic Slate"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for translator"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for wizard's diploma"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Francos key fragment"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Sups key fragment"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Mosquibees key fragment"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Wannies key fragment"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Island CX passage key"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for pickaxe"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Burgermaster's key"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Burgermaster's notes"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for protective spell"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Dark Monk's temple key"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for memory viewer"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for blowtron"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for wizard's outfit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Super Jetpack"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for piece of crystal"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for working laser pistol"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Ring of Lightning"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Voice for Burgermaster's note content"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

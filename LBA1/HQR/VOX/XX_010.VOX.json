@@ -1,0 +1,70 @@
+{
+  "description": "",
+  "entries": [
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 0"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 1"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 2"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 3"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 4"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 5"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 6"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 7"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 8"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 9"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 10"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 11"
+    },
+    {
+      "type": "creative_labs_audio",
+      "game": "LBA1",
+      "description": "Polar Island voice for text 12"
+    }
+  ]
+}
