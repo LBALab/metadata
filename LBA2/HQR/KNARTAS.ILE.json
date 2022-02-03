@@ -1,0 +1,110 @@
+{
+  "description": "This file contains 3D geometry information for Franco Island",
+  "entries": [
+    {
+      "type": "island_layout",
+      "game": "LBA2",
+      "description": "Island layout info"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Ground textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Objects textures"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Zeppelin Port: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Zeppelin Port: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Zeppelin Port: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Zeppelin Port: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Zeppelin Port: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Zeppelin Port: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Refinery Area: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Refinery Area: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Refinery Area: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Refinery Area: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Refinery Area: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Refinery Area: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Village: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Village: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Village: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Village: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Village: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Village: Vertex intensities"
+    }
+  ]
+}

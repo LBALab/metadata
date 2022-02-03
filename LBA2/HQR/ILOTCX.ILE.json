@@ -1,0 +1,50 @@
+{
+  "description": "This file contains 3D geometry information for Island CX",
+  "entries": [
+    {
+      "type": "island_layout",
+      "game": "LBA2",
+      "description": "Island layout info"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Ground textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Objects textures"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Emperor base: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Emperor base: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Emperor base: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Emperor base: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Emperor base: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Emperor base: Vertex intensities"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "description": "This file contains a list of 3D models of objects for Elevator island",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 0"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 1"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 2"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 3"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 4"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 5"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 6"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 7"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 8"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 9"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 10"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 11"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 12"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 13"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 14"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 15"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 16"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 17"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 18"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 19"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 20"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 21"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 22"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 23"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 24"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 25"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 26"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 27"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 28"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 29"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 30"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 31"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 32"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 33"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 34"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Elevator island object 35"
+    }
+  ]
+}

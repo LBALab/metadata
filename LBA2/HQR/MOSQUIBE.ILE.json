@@ -1,0 +1,110 @@
+{
+  "description": "This file contains 3D geometry information for Mosquibee Island",
+  "entries": [
+    {
+      "type": "island_layout",
+      "game": "LBA2",
+      "description": "Island layout info"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Ground textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Objects textures"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Mountain Top: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Mountain Top: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Mountain Top: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Mountain Top: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Mountain Top: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Mountain Top: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Monster Area: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Monster Area: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Monster Area: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Monster Area: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Monster Area: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Monster Area: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Nest Area: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Nest Area: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Nest Area: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Nest Area: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Nest Area: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Nest Area: Vertex intensities"
+    }
+  ]
+}

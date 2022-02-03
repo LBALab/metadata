@@ -1,0 +1,590 @@
+{
+  "description": "This file contains 3D geometry information for Desert island",
+  "entries": [
+    {
+      "type": "island_layout",
+      "game": "LBA2",
+      "description": "Island layout info"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Ground textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Objects textures"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Headland: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Headland: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Headland: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Headland: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Headland: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Headland: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Pearl Cave (Moya): Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Pearl Cave (Moya): Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Pearl Cave (Moya): Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Pearl Cave (Moya): Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Pearl Cave (Moya): Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Pearl Cave (Moya): Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Behind Perl Cave: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Behind Perl Cave: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Behind Perl Cave: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Behind Perl Cave: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Behind Perl Cave: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Behind Perl Cave: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Oasis: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Oasis: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Oasis: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Oasis: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Oasis: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Oasis: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Town Square: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Town Square: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Town Square: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Town Square: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Town Square: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Town Square: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Esmer Landing Zone: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Esmer Landing Zone: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Esmer Landing Zone: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Esmer Landing Zone: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Esmer Landing Zone: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Esmer Landing Zone: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Behind Landing Zone: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Behind Landing Zone: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Behind Landing Zone: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Behind Landing Zone: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Behind Landing Zone: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Behind Landing Zone: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Between Oasis and Racetrack: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Between Oasis and Racetrack: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Between Oasis and Racetrack: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Between Oasis and Racetrack: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Between Oasis and Racetrack: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Between Oasis and Racetrack: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Graveyard: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Graveyard: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Graveyard: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Graveyard: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Graveyard: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Graveyard: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Center Dunes: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Center Dunes: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Center Dunes: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Center Dunes: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Center Dunes: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Center Dunes: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Between Hacienda and Landing Zone: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Between Hacienda and Landing Zone: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Between Hacienda and Landing Zone: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Between Hacienda and Landing Zone: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Between Hacienda and Landing Zone: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Between Hacienda and Landing Zone: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Racetrack: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Racetrack: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Racetrack: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Racetrack: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Racetrack: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Racetrack: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Springboard: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Springboard: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Springboard: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Springboard: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Springboard: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Springboard: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Temple of Bu: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Temple of Bu: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Temple of Bu: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Temple of Bu: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Temple of Bu: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Temple of Bu: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Hacienda: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Hacienda: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Hacienda: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Hacienda: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Hacienda: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Hacienda: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Behind Racetrack: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Behind Racetrack: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Behind Racetrack: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Behind Racetrack: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Behind Racetrack: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Behind Racetrack: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu 2?: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu 2?: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu 2?: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu 2?: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu 2?: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu 2?: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Behind Temple of Bu: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Small island (facing Hacienda): Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Small island (facing Hacienda): Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Small island (facing Hacienda): Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Small island (facing Hacienda): Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Small island (facing Hacienda): Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Small island (facing Hacienda): Vertex intensities"
+    }
+  ]
+}

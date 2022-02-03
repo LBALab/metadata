@@ -1,0 +1,75 @@
+{
+  "description": "This file contains a list of 3D models of objects for Celebration Island",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 0"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 1"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 2"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 3"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 4"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 5"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 6"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 7"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 8"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 9"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 10"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 11"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 12"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Celebration Island object 13"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "description": "This file contains a list of 3D models of objects for Moon base",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 0"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 1"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 2"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 3"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 4"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 5"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 6"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 7"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 8"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 9"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 10"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 11"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 12"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 13"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 14"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 15"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 16"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 17"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 18"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 19"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 20"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 21"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 22"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 23"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 24"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 25"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 26"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 27"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 28"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Moon base object 29"
+    }
+  ]
+}

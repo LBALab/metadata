@@ -1,0 +1,230 @@
+{
+  "description": "This file contains 3D geometry information for Otringal",
+  "entries": [
+    {
+      "type": "island_layout",
+      "game": "LBA2",
+      "description": "Island layout info"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Ground textures"
+    },
+    {
+      "type": "image",
+      "game": "BOTH",
+      "description": "Objects textures"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Upper City: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Upper City: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Upper City: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Upper City: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Upper City: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Upper City: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Emperor Palace: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Emperor Palace: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Emperor Palace: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Emperor Palace: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Emperor Palace: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Emperor Palace: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Harbour: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Harbour: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Harbour: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Harbour: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Harbour: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Harbour: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Town Square: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Town Square: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Town Square: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Town Square: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Town Square: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Town Square: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Baldino's Landing Zone: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Baldino's Landing Zone: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Baldino's Landing Zone: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Baldino's Landing Zone: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Baldino's Landing Zone: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Baldino's Landing Zone: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Dog Training Center and Jail: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Dog Training Center and Jail: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Dog Training Center and Jail: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Dog Training Center and Jail: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Dog Training Center and Jail: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Dog Training Center and Jail: Vertex intensities"
+    },
+    {
+      "type": "island_section",
+      "game": "LBA2",
+      "description": "Spaceport: Section general information"
+    },
+    {
+      "type": "island_objects",
+      "game": "LBA2",
+      "description": "Spaceport: Objects list"
+    },
+    {
+      "type": "island_polygons",
+      "game": "LBA2",
+      "description": "Spaceport: Polygons"
+    },
+    {
+      "type": "island_texture_uvs",
+      "game": "LBA2",
+      "description": "Spaceport: Texture UVs"
+    },
+    {
+      "type": "island_heightmap",
+      "game": "LBA2",
+      "description": "Spaceport: Heightmap"
+    },
+    {
+      "type": "island_intensities",
+      "game": "LBA2",
+      "description": "Spaceport: Vertex intensities"
+    }
+  ]
+}

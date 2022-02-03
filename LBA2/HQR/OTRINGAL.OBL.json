@@ -1,0 +1,760 @@
+{
+  "description": "This file contains a list of 3D models of objects for Otringal",
+  "entries": [
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 0"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 1"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 2"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 3"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 4"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 5"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 6"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 7"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 8"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 9"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 10"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 11"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 12"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 13"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 14"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 15"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 16"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 17"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 18"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 19"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 20"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 21"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 22"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 23"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 24"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 25"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 26"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 27"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 28"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 29"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 30"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 31"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 32"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 33"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 34"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 35"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 36"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 37"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 38"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 39"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 40"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 41"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 42"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 43"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 44"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 45"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 46"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 47"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 48"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 49"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 50"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 51"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 52"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 53"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 54"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 55"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 56"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 57"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 58"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 59"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 60"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 61"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 62"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 63"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 64"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 65"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 66"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 67"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 68"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 69"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 70"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 71"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 72"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 73"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 74"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 75"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 76"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 77"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 78"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 79"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 80"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 81"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 82"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 83"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 84"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 85"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 86"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 87"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 88"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 89"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 90"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 91"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 92"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 93"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 94"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 95"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 96"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 97"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 98"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 99"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 100"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 101"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 102"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 103"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 104"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 105"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 106"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 107"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 108"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 109"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 110"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 111"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 112"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 113"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 114"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 115"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 116"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 117"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 118"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 119"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 120"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 121"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 122"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 123"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 124"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 125"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 126"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 127"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 128"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 129"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 130"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 131"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 132"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 133"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 134"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 135"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 136"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 137"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 138"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 139"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 140"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 141"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 142"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 143"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 144"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 145"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 146"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 147"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 148"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 149"
+    },
+    {
+      "type": "mesh",
+      "game": "LBA2",
+      "description": "Otringal object 150"
+    }
+  ]
+}

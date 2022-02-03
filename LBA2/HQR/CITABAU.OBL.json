@@ -1,580 +1,580 @@
 {
-  "description": "This file contains 3D models of objects for Citadel Island under storm.",
+  "description": "This file contains a list of 3D models of objects for Citadel island (sunny weather)",
   "entries": [
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   0"
+      "description": "Citadel island (sunny weather) object 0"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   1"
+      "description": "Citadel island (sunny weather) object 1"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   2"
+      "description": "Citadel island (sunny weather) object 2"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   3"
+      "description": "Citadel island (sunny weather) object 3"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   4"
+      "description": "Citadel island (sunny weather) object 4"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   5"
+      "description": "Citadel island (sunny weather) object 5"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   6"
+      "description": "Citadel island (sunny weather) object 6"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   7"
+      "description": "Citadel island (sunny weather) object 7"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   8"
+      "description": "Citadel island (sunny weather) object 8"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object   9"
+      "description": "Citadel island (sunny weather) object 9"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  10"
+      "description": "Citadel island (sunny weather) object 10"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  11"
+      "description": "Citadel island (sunny weather) object 11"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  12"
+      "description": "Citadel island (sunny weather) object 12"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  13"
+      "description": "Citadel island (sunny weather) object 13"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  14"
+      "description": "Citadel island (sunny weather) object 14"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  15"
+      "description": "Citadel island (sunny weather) object 15"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  16"
+      "description": "Citadel island (sunny weather) object 16"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  17"
+      "description": "Citadel island (sunny weather) object 17"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  18"
+      "description": "Citadel island (sunny weather) object 18"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  19"
+      "description": "Citadel island (sunny weather) object 19"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  20"
+      "description": "Citadel island (sunny weather) object 20"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  21"
+      "description": "Citadel island (sunny weather) object 21"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  22"
+      "description": "Citadel island (sunny weather) object 22"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  23"
+      "description": "Citadel island (sunny weather) object 23"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  24"
+      "description": "Citadel island (sunny weather) object 24"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  25"
+      "description": "Citadel island (sunny weather) object 25"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  26"
+      "description": "Citadel island (sunny weather) object 26"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  27"
+      "description": "Citadel island (sunny weather) object 27"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  28"
+      "description": "Citadel island (sunny weather) object 28"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  29"
+      "description": "Citadel island (sunny weather) object 29"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  30"
+      "description": "Citadel island (sunny weather) object 30"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  31"
+      "description": "Citadel island (sunny weather) object 31"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  32"
+      "description": "Citadel island (sunny weather) object 32"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  33"
+      "description": "Citadel island (sunny weather) object 33"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  34"
+      "description": "Citadel island (sunny weather) object 34"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  35"
+      "description": "Citadel island (sunny weather) object 35"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  36"
+      "description": "Citadel island (sunny weather) object 36"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  37"
+      "description": "Citadel island (sunny weather) object 37"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  38"
+      "description": "Citadel island (sunny weather) object 38"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  39"
+      "description": "Citadel island (sunny weather) object 39"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  40"
+      "description": "Citadel island (sunny weather) object 40"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  41"
+      "description": "Citadel island (sunny weather) object 41"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  42"
+      "description": "Citadel island (sunny weather) object 42"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  43"
+      "description": "Citadel island (sunny weather) object 43"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  44"
+      "description": "Citadel island (sunny weather) object 44"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  45"
+      "description": "Citadel island (sunny weather) object 45"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  46"
+      "description": "Citadel island (sunny weather) object 46"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  47"
+      "description": "Citadel island (sunny weather) object 47"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  48"
+      "description": "Citadel island (sunny weather) object 48"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  49"
+      "description": "Citadel island (sunny weather) object 49"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  50"
+      "description": "Citadel island (sunny weather) object 50"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  51"
+      "description": "Citadel island (sunny weather) object 51"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  52"
+      "description": "Citadel island (sunny weather) object 52"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  53"
+      "description": "Citadel island (sunny weather) object 53"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  54"
+      "description": "Citadel island (sunny weather) object 54"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  55"
+      "description": "Citadel island (sunny weather) object 55"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  56"
+      "description": "Citadel island (sunny weather) object 56"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  57"
+      "description": "Citadel island (sunny weather) object 57"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  58"
+      "description": "Citadel island (sunny weather) object 58"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  59"
+      "description": "Citadel island (sunny weather) object 59"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  60"
+      "description": "Citadel island (sunny weather) object 60"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  61"
+      "description": "Citadel island (sunny weather) object 61"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  62"
+      "description": "Citadel island (sunny weather) object 62"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  63"
+      "description": "Citadel island (sunny weather) object 63"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  64"
+      "description": "Citadel island (sunny weather) object 64"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  65"
+      "description": "Citadel island (sunny weather) object 65"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  66"
+      "description": "Citadel island (sunny weather) object 66"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  67"
+      "description": "Citadel island (sunny weather) object 67"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  68"
+      "description": "Citadel island (sunny weather) object 68"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  69"
+      "description": "Citadel island (sunny weather) object 69"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  70"
+      "description": "Citadel island (sunny weather) object 70"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  71"
+      "description": "Citadel island (sunny weather) object 71"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  72"
+      "description": "Citadel island (sunny weather) object 72"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  73"
+      "description": "Citadel island (sunny weather) object 73"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  74"
+      "description": "Citadel island (sunny weather) object 74"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  75"
+      "description": "Citadel island (sunny weather) object 75"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  76"
+      "description": "Citadel island (sunny weather) object 76"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  77"
+      "description": "Citadel island (sunny weather) object 77"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  78"
+      "description": "Citadel island (sunny weather) object 78"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  79"
+      "description": "Citadel island (sunny weather) object 79"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  80"
+      "description": "Citadel island (sunny weather) object 80"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  81"
+      "description": "Citadel island (sunny weather) object 81"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  82"
+      "description": "Citadel island (sunny weather) object 82"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  83"
+      "description": "Citadel island (sunny weather) object 83"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  84"
+      "description": "Citadel island (sunny weather) object 84"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  85"
+      "description": "Citadel island (sunny weather) object 85"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  86"
+      "description": "Citadel island (sunny weather) object 86"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  87"
+      "description": "Citadel island (sunny weather) object 87"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  88"
+      "description": "Citadel island (sunny weather) object 88"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  89"
+      "description": "Citadel island (sunny weather) object 89"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  90"
+      "description": "Citadel island (sunny weather) object 90"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  91"
+      "description": "Citadel island (sunny weather) object 91"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  92"
+      "description": "Citadel island (sunny weather) object 92"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  93"
+      "description": "Citadel island (sunny weather) object 93"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  94"
+      "description": "Citadel island (sunny weather) object 94"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  95"
+      "description": "Citadel island (sunny weather) object 95"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  96"
+      "description": "Citadel island (sunny weather) object 96"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  97"
+      "description": "Citadel island (sunny weather) object 97"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  98"
+      "description": "Citadel island (sunny weather) object 98"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object  99"
+      "description": "Citadel island (sunny weather) object 99"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 100"
+      "description": "Citadel island (sunny weather) object 100"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 101"
+      "description": "Citadel island (sunny weather) object 101"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 102"
+      "description": "Citadel island (sunny weather) object 102"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 103"
+      "description": "Citadel island (sunny weather) object 103"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 104"
+      "description": "Citadel island (sunny weather) object 104"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 105"
+      "description": "Citadel island (sunny weather) object 105"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 106"
+      "description": "Citadel island (sunny weather) object 106"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 107"
+      "description": "Citadel island (sunny weather) object 107"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 108"
+      "description": "Citadel island (sunny weather) object 108"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 109"
+      "description": "Citadel island (sunny weather) object 109"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 110"
+      "description": "Citadel island (sunny weather) object 110"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 111"
+      "description": "Citadel island (sunny weather) object 111"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 112"
+      "description": "Citadel island (sunny weather) object 112"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 113"
+      "description": "Citadel island (sunny weather) object 113"
     },
     {
       "type": "mesh",
       "game": "LBA2",
-      "description": "Stormy Citadel object 114"
+      "description": "Citadel island (sunny weather) object 114"
     }
   ]
 }

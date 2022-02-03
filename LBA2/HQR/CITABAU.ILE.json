@@ -1,5 +1,5 @@
 {
-  "description": "This file contains 3D geometry information for the Citadel Island under sunny weather. It has the same layout as ",
+  "description": "This file contains 3D geometry information for Citadel island (sunny weather)",
   "entries": [
     {
       "type": "island_layout",
@@ -19,272 +19,272 @@
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Wizard's Tent Area: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Wizard's Tent Area: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Wizard's Tent Area: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Wizard's Tent Area: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Wizard's Tent Area: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Wizard's Tent Area: Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Flower's Circle: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Flower's Circle: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Flower's Circle: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Flower's Circle: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Flower's Circle: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Flower's Circle: Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Woodbridge: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Woodbridge: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Woodbridge: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Woodbridge: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Woodbridge: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Woodbridge: Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Dome: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Dome: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Dome: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Dome: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Dome: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Dome: Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Lupin-Bourg (statue): Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Lupin-Bourg (statue): Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Lupin-Bourg (statue): Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Lupin-Bourg (statue): Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Lupin-Bourg (statue): Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Lupin-Bourg (statue): Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Harbour: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Harbour: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Harbour: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Harbour: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Harbour: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Harbour: Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Lupin-Bourg (landing zone): Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Lupin-Bourg (landing zone): Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Lupin-Bourg (landing zone): Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Lupin-Bourg (landing zone): Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Lupin-Bourg (landing zone): Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Lupin-Bourg (landing zone): Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Lighthouse Area: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Lighthouse Area: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Lighthouse Area: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Lighthouse Area: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Lighthouse Area: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Lighthouse Area: Vertex intensities"
     },
     {
       "type": "island_section",
       "game": "LBA2",
-      "description": "Island section info"
+      "description": "Twinsen's House Area: Section general information"
     },
     {
       "type": "island_objects",
       "game": "LBA2",
-      "description": "Island objects info"
+      "description": "Twinsen's House Area: Objects list"
     },
     {
       "type": "island_polygons",
       "game": "LBA2",
-      "description": "Island polygons"
+      "description": "Twinsen's House Area: Polygons"
     },
     {
       "type": "island_texture_uvs",
       "game": "LBA2",
-      "description": "Island texture uvs"
+      "description": "Twinsen's House Area: Texture UVs"
     },
     {
       "type": "island_heightmap",
       "game": "LBA2",
-      "description": "Island heightmap"
+      "description": "Twinsen's House Area: Heightmap"
     },
     {
       "type": "island_intensities",
       "game": "LBA2",
-      "description": "Island intensities"
+      "description": "Twinsen's House Area: Vertex intensities"
     }
   ]
 }
