@@ -1,45 +1,45 @@
 {
-  "description": "",
+  "description": "Island CX - Voices",
   "entries": [
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 0"
+      "description": "Island CX voice for text 0"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 1"
+      "description": "Island CX voice for text 1"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 2"
+      "description": "Island CX voice for text 2"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 3"
+      "description": "Island CX voice for text 3"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 4"
+      "description": "Island CX voice for text 4"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 5"
+      "description": "Island CX voice for text 5"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 6"
+      "description": "Island CX voice for text 6"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_009 voice for text 7"
+      "description": "Island CX voice for text 7"
     }
   ]
 }

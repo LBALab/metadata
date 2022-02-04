@@ -1,30 +1,30 @@
 {
-  "description": "",
+  "description": "Under-gas Elevator - Voices",
   "entries": [
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_010 voice for text 0"
+      "description": "Under-gas Elevator voice for text 0"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_010 voice for text 1"
+      "description": "Under-gas Elevator voice for text 1"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_010 voice for text 2"
+      "description": "Under-gas Elevator voice for text 2"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_010 voice for text 3"
+      "description": "Under-gas Elevator voice for text 3"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_010 voice for text 4"
+      "description": "Under-gas Elevator voice for text 4"
     }
   ]
 }

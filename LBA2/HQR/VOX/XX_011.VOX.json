@@ -1,85 +1,85 @@
 {
-  "description": "",
+  "description": "Volcano Island (Undergas) - Voices",
   "entries": [
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 0"
+      "description": "Volcano Island (Undergas) voice for text 0"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 1"
+      "description": "Volcano Island (Undergas) voice for text 1"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 2"
+      "description": "Volcano Island (Undergas) voice for text 2"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 3"
+      "description": "Volcano Island (Undergas) voice for text 3"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 4"
+      "description": "Volcano Island (Undergas) voice for text 4"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 5"
+      "description": "Volcano Island (Undergas) voice for text 5"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 6"
+      "description": "Volcano Island (Undergas) voice for text 6"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 7"
+      "description": "Volcano Island (Undergas) voice for text 7"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 8"
+      "description": "Volcano Island (Undergas) voice for text 8"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 9"
+      "description": "Volcano Island (Undergas) voice for text 9"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 10"
+      "description": "Volcano Island (Undergas) voice for text 10"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 11"
+      "description": "Volcano Island (Undergas) voice for text 11"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 12"
+      "description": "Volcano Island (Undergas) voice for text 12"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 13"
+      "description": "Volcano Island (Undergas) voice for text 13"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 14"
+      "description": "Volcano Island (Undergas) voice for text 14"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "XX_011 voice for text 15"
+      "description": "Volcano Island (Undergas) voice for text 15"
     }
   ]
 }
