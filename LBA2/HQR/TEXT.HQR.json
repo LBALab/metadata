@@ -26,272 +26,832 @@
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 0"
+      "description": "English: Citadel Island index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 0"
+      "description": "English: Citadel Island dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 1"
+      "description": "English: unused index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 1"
+      "description": "English: unused dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 2"
+      "description": "English: Desert Island index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 2"
+      "description": "English: Desert Island dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 3"
+      "description": "English: Emerald Moon index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 3"
+      "description": "English: Emarald Moon dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 4"
+      "description": "English: Otringal index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 4"
+      "description": "English: Otringal dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 5"
+      "description": "English: Celebration Island index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 5"
+      "description": "English: Celebration Island dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 6"
+      "description": "English: Wannies Island index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 6"
+      "description": "English: Wannies Island dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 7"
+      "description": "English: Mosquibees Island index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 7"
+      "description": "English: Mosquibees Island dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 8"
+      "description": "English: Francos Island index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 8"
+      "description": "English: Francos Island dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 9"
+      "description": "English: Island CX index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 9"
+      "description": "English: Island CX dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 10"
+      "description": "English: Undergas elevator index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 10"
+      "description": "English: Undergas elevator dialogs"
     },
     {
       "type": "dialogs_index",
       "game": "BOTH",
-      "description": "English: Index 11"
+      "description": "English: Volcano Island (under Celebration) index"
     },
     {
       "type": "dialogs",
       "game": "LBA2",
-      "description": "English: Dialogs 11"
+      "description": "English: Volcano Island (under Celebration) dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Options and menus index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Options and menus dialogs"
     },
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Inventory and Holomap index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Inventory and Holomap dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Citadel Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Citadel Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: unused index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: unused dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Desert Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Desert Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Emerald Moon index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Emarald Moon dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Otringal index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Otringal dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Celebration Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Celebration Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Wannies Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Wannies Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Mosquibees Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Mosquibees Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Francos Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Francos Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Island CX index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Island CX dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Undergas elevator index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Undergas elevator dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "French: Volcano Island (under Celebration) index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "French: Volcano Island (under Celebration) dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Options and menus index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Options and menus dialogs"
+    },
+    null,
+    null,
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Inventory and Holomap index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Inventory and Holomap dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Citadel Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Citadel Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: unused index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: unused dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Desert Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Desert Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Emerald Moon index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Emarald Moon dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Otringal index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Otringal dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Celebration Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Celebration Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Wannies Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Wannies Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Mosquibees Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Mosquibees Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Francos Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Francos Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Island CX index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Island CX dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Undergas elevator index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Undergas elevator dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "German: Volcano Island (under Celebration) index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "German: Volcano Island (under Celebration) dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Options and menus index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Options and menus dialogs"
+    },
+    null,
+    null,
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Inventory and Holomap index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Inventory and Holomap dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Citadel Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Citadel Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: unused index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: unused dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Desert Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Desert Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Emerald Moon index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Emarald Moon dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Otringal index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Otringal dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Celebration Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Celebration Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Wannies Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Wannies Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Mosquibees Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Mosquibees Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Francos Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Francos Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Island CX index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Island CX dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Undergas elevator index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Undergas elevator dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Spanish: Volcano Island (under Celebration) index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Spanish: Volcano Island (under Celebration) dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Options and menus index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Options and menus dialogs"
+    },
+    null,
+    null,
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Inventory and Holomap index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Inventory and Holomap dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Citadel Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Citadel Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: unused index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: unused dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Desert Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Desert Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Emerald Moon index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Emarald Moon dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Otringal index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Otringal dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Celebration Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Celebration Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Wannies Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Wannies Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Mosquibees Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Mosquibees Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Francos Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Francos Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Island CX index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Island CX dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Undergas elevator index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Undergas elevator dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Italian: Volcano Island (under Celebration) index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Italian: Volcano Island (under Celebration) dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Options and menus index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Options and menus dialogs"
+    },
+    null,
+    null,
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Inventory and Holomap index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Inventory and Holomap dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Citadel Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Citadel Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: unused index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: unused dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Desert Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Desert Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Emerald Moon index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Emarald Moon dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Otringal index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Otringal dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Celebration Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Celebration Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Wannies Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Wannies Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Mosquibees Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Mosquibees Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Francos Island index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Francos Island dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Island CX index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Island CX dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Undergas elevator index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Undergas elevator dialogs"
+    },
+    {
+      "type": "dialogs_index",
+      "game": "BOTH",
+      "description": "Portuguese: Volcano Island (under Celebration) index"
+    },
+    {
+      "type": "dialogs",
+      "game": "LBA2",
+      "description": "Portuguese: Volcano Island (under Celebration) dialogs"
+    }
   ]
 }
