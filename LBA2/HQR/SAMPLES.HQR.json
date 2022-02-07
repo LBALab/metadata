@@ -4,22 +4,1118 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Throw magic ball"
+      "description": "Throwing ball"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Fire laser pistol"
+      "description": "Laser pistol"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Collect bonus"
+      "description": "Health/magic point, coin found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Spit bonus"
+      "description": "Item popup"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Conveyor belt"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Proto-pack"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Big item found"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Magic ball bounce"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Magic ball hit/stop"
+    },
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Disappoint"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Error/invalid entry"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Joe appears"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Rain"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Gas"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Gas elevator"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Ricochet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Ricochet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Splash"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Grenade explosion"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Grenade explosion"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Sitting down"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Falling down"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Splash"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Fireball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over grass"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over wood"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in sand"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over metal"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in a cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over carpet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over flower"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over wood"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk through water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over sand"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk through water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over grass"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over wood"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over grind"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over carpet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over flower"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over carpet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk through water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over sand"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over slime"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over wood"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over grind"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over metal"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in a cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over carpet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over flower"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk through water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over metal"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over wood"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over grind"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over carpet"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over flower"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over metal"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over slime"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk in cave"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over stone"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Protection spell"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Protection spell fails"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Joe appears"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Flat bell"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Thunder"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Fireball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Fireball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Fireball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Fireball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hearthbeat"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Thunder"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Cymbal"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Truck engine"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Truck engine"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hovercraft"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Conveyor belt"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hovercraft"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Machine"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hovercraft"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen voice sample (English)"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen voice sample (French)"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen voice sample (German)"
+    },
+    null,
+    null,
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Splash"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Fireball"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen sigh/dead"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Blowgun shot"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen in discreet mode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Swing"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Gas wind"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Drown"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Drown"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Drown"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen hit the ground"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen in aggressive mode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Bell ring"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Drums"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen in discreet mode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Sword swing"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Blowtron"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Blowtron"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Laser pistol"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Jump"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Puff (Athletic mode)"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Kiss"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Magical appearance?"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Twinsen amazed"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Digging"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Tick"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "UFO land"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Steel cup dropping on ground"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "UFO take off"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hiss"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Pop"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Franco hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Lever turn"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Soldier attack"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Gas monster"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Laser pistol"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Pickaxe digging"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Laser pistol"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Laser pistol load"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Electric field"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Walk over an item, but didn't get it"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Snore"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Snore"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Drown"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Space suit laser shoot"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Screech"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Kiss"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Key lock"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Key lock"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Key lock"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Zoé giggle"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Rabbibunny hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Tralü attack"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Swing"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Mosquibee hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Snake"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Chest open"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Temple of Bů sound"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Drop"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Coin"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Pouring water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Coin"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Laser pistol"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Dog bark"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Dog bark"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Dog whine"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Key lock"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hiss"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Boing"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Magic"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Magic"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Boing"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Water"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "??"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Clap"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Clap"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Explode"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Electronic arm"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Hiccup"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Poing"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Screech"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Gunrobot hit"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "Gunrobot destroyed"
+    },
+    {
+      "type": "wave_audio",
+      "game": "LBA2",
+      "description": "UFO"
     },
     {
       "type": "wave_audio",
@@ -29,1936 +1125,840 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Protopack"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Found item"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   7"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   8"
+      "description": "??"
     },
-    null,
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  10"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  11"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  12"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  13"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  14"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  14"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  16"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  17"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  18"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  19"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  20"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  21"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  22"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  23"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  24"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  25"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  26"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  26"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  28"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  29"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  30"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  31"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  32"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  33"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  34"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  31"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  36"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  37"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  38"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  39"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  40"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  41"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  42"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  43"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  31"
-    },
-    null,
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  46"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  47"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  48"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  49"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  46"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  51"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  52"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  53"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  39"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  55"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  56"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  57"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  58"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  46"
-    },
-    null,
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  31"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  31"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  33"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  64"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  65"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  36"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  37"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  38"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  39"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  70"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  43"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  36"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  73"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  31"
-    },
-    null,
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  46"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  46"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  48"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  79"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  80"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  51"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  52"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  53"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  39"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  85"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  58"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  51"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  88"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  46"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  90"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  91"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  12"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  93"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  94"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  95"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  30"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  30"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  98"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample  99"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 100"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 101"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 102"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 103"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 104"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 105"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 106"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 107"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 108"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 109"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 110"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 111"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 112"
-    },
-    null,
-    null,
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 115"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 116"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 117"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 118"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 119"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 120"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 121"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 122"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 123"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 124"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 125"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 126"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 127"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 128"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 129"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 130"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 131"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 132"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 133"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 134"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 135"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 136"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 137"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 138"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 139"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 140"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 141"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 142"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 143"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 144"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 145"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 146"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 147"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 148"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 149"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 150"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 151"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 152"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 153"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 154"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 155"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 156"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 157"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 158"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 159"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 160"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 161"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 162"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 163"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 164"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 165"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 166"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 167"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 168"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 169"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 170"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 171"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 172"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 173"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 174"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 175"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 176"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 177"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 178"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 179"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 180"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 181"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 182"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 183"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 184"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 185"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 186"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 187"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 188"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 189"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 190"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 191"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 192"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 193"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 194"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 195"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 196"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 197"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 198"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 199"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 200"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 201"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 202"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 203"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 204"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 205"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 206"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 207"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 208"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 209"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 210"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 211"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 212"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 213"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 214"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 215"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 216"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 217"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 218"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 219"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 220"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 221"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 222"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 223"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 224"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 225"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 226"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 227"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 228"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 229"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 230"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 231"
-    },
-    {
-      "type": "wave_audio",
-      "game": "LBA2",
-      "description": "Sample 232"
-    },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 233"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 234"
+      "description": "Tick"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 235"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 236"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 237"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 238"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 239"
+      "description": "Moscuibee buzz"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 240"
+      "description": "Moscuibee blow"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 241"
+      "description": "Moscuibee buzz"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 242"
+      "description": "Moscuibee buzz"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 243"
+      "description": "Mosquibee flying"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 244"
+      "description": "Moscuibee hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 245"
+      "description": "Baby giggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 246"
+      "description": "Baby giggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 247"
+      "description": "Baby giggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 248"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 249"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 250"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 251"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 252"
+      "description": "Mosquibee hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 253"
+      "description": "Motor start"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 254"
+      "description": "Screech"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 255"
+      "description": "Mosquibee hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 256"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 257"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 258"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 259"
+      "description": "Photo camera"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 260"
+      "description": "Pop"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 261"
+      "description": "Stan jump"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 262"
+      "description": "Stan die"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 263"
+      "description": "Key lock"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 264"
+      "description": "Poodle bark"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 265"
+      "description": "Tick"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 266"
+      "description": "Soldier angry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 267"
+      "description": "Soldier attack"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 268"
+      "description": "Puff"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 269"
+      "description": "Explode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 270"
+      "description": "Soldier scared (LBA1)"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 271"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 272"
+      "description": "Machine gun"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 273"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 274"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 275"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 276"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 277"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 101"
+      "description": "Cymbal"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 279"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 280"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 281"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 282"
+      "description": "Explode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 283"
+      "description": "FunFrock grin"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 284"
+      "description": "Dr. FunFrock laugh"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 285"
+      "description": "Dr. FunFrock hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 286"
+      "description": "Dr. FunFrock hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 287"
+      "description": "Gas monster"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 288"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 289"
+      "description": "Rummaging"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 290"
+      "description": "Eating"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 291"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 292"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 293"
+      "description": "Frog"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 294"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 295"
+      "description": "Gas moster"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 296"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 297"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 298"
+      "description": "Stan hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 299"
+      "description": "Construction"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 300"
+      "description": "Construction"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 301"
+      "description": "Tick"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 302"
+      "description": "Groboclone hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 303"
+      "description": "Explode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 304"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 305"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 306"
+      "description": "Trumpet"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 307"
+      "description": "Trumpet"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 308"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 310"
+      "description": "Ting"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 311"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 312"
+      "description": "Dog bark"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 313"
+      "description": "Coin"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 314"
+      "description": "Shot"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 315"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 316"
+      "description": "Electric drill"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 317"
+      "description": "Slurp"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 318"
+      "description": "Hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 319"
+      "description": "Stan sign"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 320"
+      "description": "Stan hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 321"
+      "description": "Stan \"oeph\""
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 322"
+      "description": "Stan attack"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 323"
+      "description": "Stan jump"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 324"
+      "description": "Stan attack"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 325"
+      "description": "Stan attack"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 326"
+      "description": "Stan attack"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 327"
+      "description": "Baby wine"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 328"
+      "description": "Baby wine"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 329"
+      "description": "\"Uuuuuuh\""
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 330"
+      "description": "\"uuh\""
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 331"
+      "description": "\"uhuuh\""
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 332"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 333"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 334"
+      "description": "Grobo alarm"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 335"
+      "description": "Alarm trigger"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 336"
+      "description": "Rocket launcher"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 337"
+      "description": "Groboclone hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 338"
+      "description": "Electronic arm"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 339"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 340"
+      "description": "Puff"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 341"
+      "description": "Kid laugh"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 342"
+      "description": "Ting"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 343"
+      "description": "Ting"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 344"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 345"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 346"
+      "description": "Ocean"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 347"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 348"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 350"
+      "description": "Heavy door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 353"
+      "description": "Slide door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     null,
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 176"
+      "description": "Key lock"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 212"
+      "description": "Magic"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   2"
+      "description": "Health/magic point, coin found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 122"
+      "description": "Swing"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 368"
+      "description": "Fishing"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 369"
+      "description": "Shop entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 370"
+      "description": "Radio sound"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 169"
+      "description": "Drown"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 334"
+      "description": "Grobo alarm"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 211"
+      "description": "Magic"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 143"
+      "description": "Twinsen amazed"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  21"
+      "description": "Splash"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  11"
+      "description": "Error/invalid entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  29"
+      "description": "Explode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 378"
+      "description": "Ship's Horn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 379"
+      "description": "Ship's motor"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 380"
+      "description": "\"lala la la la...\""
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 100"
+      "description": "Thunder"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 382"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 383"
+      "description": "Soldier scared (LBA1)"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 305"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 385"
+      "description": "Rumbling (thunder)"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 386"
+      "description": "Wheel turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 387"
+      "description": "Cave ambien"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 388"
+      "description": "Lever jammed"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 369"
+      "description": "Shop entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 296"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  12"
+      "description": "Joe appears"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 393"
+      "description": "Stepping on poo"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 394"
+      "description": "Hiss/water"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  17"
+      "description": "Gas elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 388"
+      "description": "Lever jammed"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 130"
+      "description": "Twinsen in aggressive mode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 265"
+      "description": "Tick"
     },
     null,
     null,
@@ -1968,260 +1968,260 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 404"
+      "description": "Water in a sewer"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 405"
+      "description": "Water in a sewer"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 407"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 408"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 409"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 132"
+      "description": "Drums"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 411"
+      "description": "Warehouse ambient"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 412"
+      "description": "Birds"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 413"
+      "description": "Birds"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 414"
+      "description": "Crowd amazed"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 415"
+      "description": "Crowd"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 344"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 345"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 346"
+      "description": "Ocean"
     },
     null,
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 353"
+      "description": "Slide door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 265"
+      "description": "Tick"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  14"
+      "description": "Explode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   2"
+      "description": "Health/magic point, coin found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 369"
+      "description": "Shop entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  12"
+      "description": "Joe appears"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 117"
+      "description": "Splash"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 115"
+      "description": "Hit"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 118"
+      "description": "Fireball"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 334"
+      "description": "Grobo alarm"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 106"
+      "description": "Conveyor belt"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 448"
+      "description": "Electric shock"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 378"
+      "description": "Ship's Horn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 379"
+      "description": "Ship's motor"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 230"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 270"
+      "description": "Soldier scared (LBA1)"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 454"
+      "description": "Peep"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 172"
+      "description": "Hit"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 265"
+      "description": "Tick"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 211"
+      "description": "Magic"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 212"
+      "description": "Magic"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 461"
+      "description": "UFO fly by"
     },
     null,
     null,
@@ -2241,97 +2241,97 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 477"
+      "description": "Dessert hiss"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 478"
+      "description": "Small waterfall"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 404"
+      "description": "Water in a sewer"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 405"
+      "description": "Water in a sewer"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 407"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 408"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 409"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 132"
+      "description": "Drums"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 486"
+      "description": "Factory ambient"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 487"
+      "description": "Radar working"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 488"
+      "description": "Hovercraft motor"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 489"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 228"
+      "description": "Elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 228"
+      "description": "Elevator"
     },
     null,
     null,
@@ -2341,73 +2341,73 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 507"
+      "description": "Peep Peep"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 164"
+      "description": "Electric field"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  26"
+      "description": "Explode"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 510"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 487"
+      "description": "Radar working"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 512"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 454"
+      "description": "Peep"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 227"
+      "description": "UFO"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 515"
+      "description": "Peep"
     },
     null,
     null,
@@ -2442,166 +2442,166 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 546"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 489"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 123"
+      "description": "Gas wind"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 409"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 132"
+      "description": "Drums"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 228"
+      "description": "Elevator"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 228"
+      "description": "Elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 561"
+      "description": "Elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 569"
+      "description": "Alarm"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 164"
+      "description": "Electric field"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 573"
+      "description": "Coin in gamble machine"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 574"
+      "description": "Coin"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 575"
+      "description": "Slot machine"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 576"
+      "description": "Electirc field"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 265"
+      "description": "Tick"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 296"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 581"
+      "description": "??"
     },
     null,
     null,
@@ -2631,49 +2631,49 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 407"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 408"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 409"
+      "description": "Cave entry"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 132"
+      "description": "Drums"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 344"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 345"
+      "description": "Water drop in a cave"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 614"
+      "description": "Water ??"
     },
     null,
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 617"
+      "description": "Door open"
     },
     null,
     null,
@@ -2682,7 +2682,7 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     null,
     null,
@@ -2691,192 +2691,192 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 176"
+      "description": "Key lock"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     null,
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 632"
+      "description": "Rabbibunny clone calculate (LBA1)"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 370"
+      "description": "Radio sound"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 635"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 636"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 210"
+      "description": "Boing"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 638"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 576"
+      "description": "Electirc field"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 217"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 641"
+      "description": "Children yell"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 486"
+      "description": "Factory ambient"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 487"
+      "description": "Radar working"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 488"
+      "description": "Hovercraft motor"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 489"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 617"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 617"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 228"
+      "description": "Elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 652"
+      "description": "Hiss"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 106"
+      "description": "Conveyor belt"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 100"
+      "description": "Thunder"
     },
     null,
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 309"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 176"
+      "description": "Key lock"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   2"
+      "description": "Health/magic point, coin found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 164"
+      "description": "Electric field"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 332"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 576"
+      "description": "Electirc field"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 350"
+      "description": "Heavy door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 296"
+      "description": "Door open"
     },
     null,
     null,
@@ -2914,42 +2914,42 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 614"
+      "description": "Water ??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 486"
+      "description": "Factory ambient"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 487"
+      "description": "Radar working"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 488"
+      "description": "Hovercraft motor"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 489"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 617"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 100"
+      "description": "Thunder"
     },
     null,
     null,
@@ -2957,7 +2957,7 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     null,
     null,
@@ -2971,13 +2971,13 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  14"
+      "description": "Explode"
     },
     null,
     null,
@@ -3019,47 +3019,47 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 614"
+      "description": "Water ??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 123"
+      "description": "Gas wind"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 765"
+      "description": "Cave ??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 487"
+      "description": "Radar working"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 488"
+      "description": "Hovercraft motor"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 486"
+      "description": "Factory ambient"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 617"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 353"
+      "description": "Slide door open"
     },
     null,
     null,
@@ -3067,7 +3067,7 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     null,
     null,
@@ -3076,17 +3076,17 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 781"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     null,
     null,
@@ -3094,17 +3094,17 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 175"
+      "description": "Key lock"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 393"
+      "description": "Stepping on poo"
     },
     null,
     null,
@@ -3145,85 +3145,85 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 614"
+      "description": "Water ??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 123"
+      "description": "Gas wind"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 411"
+      "description": "Warehouse ambient"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 828"
+      "description": "Conveyor belt"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 829"
+      "description": "Conveyor belt"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 489"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 406"
+      "description": "??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 351"
+      "description": "Electric door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 228"
+      "description": "Elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 349"
+      "description": "Door open"
     },
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 354"
+      "description": "Elevator move"
     },
     null,
     null,
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 781"
+      "description": "Lever turn"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 501"
+      "description": "Lever toggle"
     },
     null,
     null,
@@ -3231,22 +3231,22 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Big item found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 632"
+      "description": "Rabbibunny clone calculate (LBA1)"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 265"
+      "description": "Tick"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 175"
+      "description": "Key lock"
     },
     null,
     null,
@@ -3287,42 +3287,42 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 614"
+      "description": "Water ??"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 123"
+      "description": "Gas wind"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 123"
+      "description": "Gas wind"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 123"
+      "description": "Gas wind"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   2"
+      "description": "Health/magic point, coin found"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample  95"
+      "description": "Fireball"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 100"
+      "description": "Thunder"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample 614"
+      "description": "Water ??"
     }
   ]
 }
