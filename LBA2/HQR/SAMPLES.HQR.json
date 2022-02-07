@@ -4,37 +4,37 @@
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   0"
+      "description": "Throw magic ball"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   1"
+      "description": "Fire laser pistol"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   2"
+      "description": "Collect bonus"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   3"
+      "description": "Spit bonus"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   4"
+      "description": "Elevator"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   5"
+      "description": "Protopack"
     },
     {
       "type": "wave_audio",
       "game": "LBA2",
-      "description": "Sample   6"
+      "description": "Found item"
     },
     {
       "type": "wave_audio",
