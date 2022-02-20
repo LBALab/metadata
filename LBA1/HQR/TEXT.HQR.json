@@ -1,705 +1,705 @@
 {
-  "description": "This file contains character dialog texts and their indexes.",
-  "entries": [
+  "description":"This file contains character dialog texts and their indexes.",
+  "entries":[
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Options and menus index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Options and Menus index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Options and menus dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Options and Menus dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Credits index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Credits index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Credits dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Credits dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Inventory, intro and Holomap index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Inventory, Intro and Holomap index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Inventory, intro and Holomap dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Inventory, Intro and Holomap dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 0"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Citadel Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 0"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Citadel Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 1"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Principal Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 1"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Principal Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 2"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: White Leaf Desert index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 2"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: White Leaf Desert dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 3"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Proxima Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 3"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Proxima Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 4"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Rebellion Island index "
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 4"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Rebellion Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 5"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Hamalayi Mountains - Southern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 5"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Hamalayi Mountains - Southern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 6"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Hamalayi Mountains - Northern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 6"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Hamalayi Mountains - Northern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 7"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Tippet Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 7"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Tippet Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 8"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Brundle Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 8"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Brundle Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 9"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Fortress Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 9"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Fortress Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "English: Index 10"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"English: Polar Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "English: Dialogs 10"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"English: Polar Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Options and menus index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Options and Menus index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Options and menus dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Options and Menus dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Credits index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Credits index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Credits dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Credits dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Inventory, intro and Holomap index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Inventory, Intro and Holomap index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Inventory, intro and Holomap dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Inventory, Intro and Holomap dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 0"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Citadel Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 0"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Citadel Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 1"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Principal Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 1"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Principal Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 2"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: White Leaf Desert index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 2"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: White Leaf Desert dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 3"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Proxima Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 3"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Proxima Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 4"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Rebellion Island index "
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 4"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Rebellion Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 5"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Hamalayi Mountains - Southern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 5"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Hamalayi Mountains - Southern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 6"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Hamalayi Mountains - Northern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 6"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Hamalayi Mountains - Northern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 7"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Tippet Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 7"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Tippet Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 8"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Brundle Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 8"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Brundle Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 9"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Fortress Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 9"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Fortress Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "French:  Index 10"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"French: Polar Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "French:  Dialogs 10"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"French: Polar Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Options and menus index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Options and Menus index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Options and menus dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Options and Menus dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Credits index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Credits index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Credits dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Credits dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Inventory, intro and Holomap index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Inventory, Intro and Holomap index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Inventory, intro and Holomap dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Inventory, Intro and Holomap dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 0"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Citadel Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 0"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Citadel Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 1"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Principal Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 1"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Principal Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 2"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: White Leaf Desert index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 2"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: White Leaf Desert dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 3"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Proxima Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 3"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Proxima Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 4"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Rebellion Island index "
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 4"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Rebellion Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 5"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Hamalayi Mountains - Southern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 5"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Hamalayi Mountains - Southern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 6"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Hamalayi Mountains - Northern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 6"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Hamalayi Mountains - Northern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 7"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Tippet Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 7"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Tippet Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 8"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Brundle Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 8"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Brundle Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 9"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Fortress Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 9"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Fortress Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "German:  Index 10"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"German: Polar Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "German:  Dialogs 10"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"German: Polar Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Options and menus index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Options and Menus index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Options and menus dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Options and Menus dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Credits index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Credits index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Credits dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Credits dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Inventory, intro and Holomap index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Inventory, Intro and Holomap index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Inventory, intro and Holomap dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Inventory, Intro and Holomap dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 0"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Citadel Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 0"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Citadel Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 1"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Principal Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 1"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Principal Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 2"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: White Leaf Desert index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 2"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: White Leaf Desert dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 3"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Proxima Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 3"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Proxima Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 4"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Rebellion Island index "
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 4"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Rebellion Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 5"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Hamalayi Mountains - Southern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 5"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Hamalayi Mountains - Southern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 6"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Hamalayi Mountains - Northern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 6"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Hamalayi Mountains - Northern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 7"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Tippet Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 7"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Tippet Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 8"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Brundle Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 8"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Brundle Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 9"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Fortress Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 9"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Fortress Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Spanish: Index 10"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Spanish: Polar Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Spanish: Dialogs 10"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Spanish: Polar Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Options and menus index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Options and Menus index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Options and menus dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Options and Menus dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Credits index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Credits index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Credits dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Credits dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Inventory, intro and Holomap index"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Inventory, Intro and Holomap index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Inventory, intro and Holomap dialogs"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Inventory, Intro and Holomap dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 0"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Citadel Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 0"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Citadel Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 1"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Principal Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 1"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Principal Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 2"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: White Leaf Desert index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 2"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: White Leaf Desert dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 3"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Proxima Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 3"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Proxima Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 4"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Rebellion Island index "
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 4"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Rebellion Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 5"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Hamalayi Mountains - Southern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 5"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Hamalayi Mountains - Southern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 6"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Hamalayi Mountains - Northern Range index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 6"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Hamalayi Mountains - Northern Range dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 7"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Tippet Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 7"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Tippet Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 8"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Brundle Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 8"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Brundle Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 9"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Fortress Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 9"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Fortress Island dialogs"
     },
     {
-      "type": "dialogs_index",
-      "game": "BOTH",
-      "description": "Italian: Index 10"
+      "type":"dialogs_index",
+      "game":"BOTH",
+      "description":"Italian: Polar Island index"
     },
     {
-      "type": "dialogs",
-      "game": "LBA1",
-      "description": "Italian: Dialogs 10"
+      "type":"dialogs",
+      "game":"LBA1",
+      "description":"Italian: Polar Island dialogs"
     }
   ]
 }
